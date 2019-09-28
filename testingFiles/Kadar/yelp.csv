@@ -1,0 +1,1609 @@
+,category,is_closed,latitude,longitude,name,rating,review_count
+0,tapasmallplates,False,34.10052,-118.32927,Running Goose,4.5,965
+1,southern,False,34.061516999999995,-118.239716,Howlin' Ray's,4.5,5619
+2,french,False,34.06415,-118.34367,République,4.0,5130
+3,chickenshop,False,34.0880681,-118.308962,Dave's Hot Chicken,4.5,2513
+4,newamerican,False,34.048111,-118.258345,JOEY DTLA,4.5,334
+5,southern,False,34.102039000000005,-118.299858,Angry Birdz,4.5,725
+6,dimsum,False,34.07577,-118.36982,Bao Dim Sum House,4.0,2772
+7,asianfusion,False,34.0404035,-118.2535117,BROKEN MOUTH | Lee's Homestyle,5.0,659
+8,filipino,False,34.08222,-118.30948,Rice Guys,5.0,59
+9,korean,False,34.06400900000001,-118.3007013,Yup Dduk La,4.5,1951
+10,japanese,False,34.050023,-118.239935,Marugame Monzo,4.5,3534
+11,gastropubs,False,34.12384,-118.26868,The Morrison,4.5,4202
+12,mediterranean,False,34.047351500000005,-118.3762949,Oasis Mediterranean Cuisine,4.5,258
+13,ramen,False,34.0573614429986,-118.30676974470501,Slurpin' Ramen Bar,4.5,4040
+14,newamerican,False,34.07586,-118.35247,Mixtape,4.0,93
+15,delis,False,34.0476,-118.317234,Pasta Sisters,4.5,1334
+16,cafes,False,34.05218,-118.28737,Coffee MCO,5.0,70
+17,taiwanese,False,34.0581675839108,-118.417310318771,Din Tai Fung,4.0,1121
+18,sushi,False,34.06372,-118.36446,KazuNori: The Original Hand Roll Bar,5.0,7
+19,korean,False,34.0628602582049,-118.29757030125799,Hangari Bajirak Kalguksu,4.5,1554
+20,korean,False,34.057970000000005,-118.2944,Hak San - LA,4.0,32
+21,taiwanese,False,34.0905963760163,-118.27717208400499,Pine & Crane,4.5,2132
+22,ramen,False,34.050080909440005,-118.24018045129999,Daikokuya Little Tokyo,4.0,8318
+23,italian,False,34.03402,-118.22919,Bestia,4.5,5847
+24,chinese,False,34.06301,-118.2384,Yang Chow,4.0,2482
+25,cafes,False,34.060944799999994,-118.3446759,Met Her At A Bar,4.5,957
+26,lounges,False,34.048970000000004,-118.2514,Perch,4.0,7266
+27,japanese,False,34.062180700000006,-118.348153,Yuko Kitchen,4.5,1513
+28,korean,False,34.064041137695305,-118.28806304931601,Yuk Dae Jang,4.5,462
+29,korean,False,34.065414000000004,-118.3095703125,Han Bat Sul Lung Tang,4.5,2103
+30,southern,False,34.0498186,-118.3596124,My Two Cents,4.5,595
+31,delis,False,34.056090000000005,-118.27658,Langer's,4.5,3614
+32,french,False,34.051909,-118.3843212,A Food Affair,4.5,1239
+33,italian,False,34.0833586783984,-118.324724939274,Osteria Mamma,4.0,1523
+34,bbq,False,34.0637349,-118.2972751,Kang Ho-dong Baekjeong,4.5,4111
+35,french,False,34.07208,-118.36749,The Little Door,4.0,2033
+36,seafood,False,34.003815,-118.3325408,Fisherman's Island LA,4.5,56
+37,korean,False,34.0630836857803,-118.29748123802099,Sun Nong Dan,4.0,1458
+38,mediterranean,False,34.1023799,-118.32715,Cleo Hollywood,4.0,1702
+39,hotdog,False,34.0456047058105,-118.23606109619101,Wurstküche,4.0,8182
+40,tradamerican,False,34.096039000000005,-118.326357,The Parker Room,4.5,166
+41,hotdog,False,34.06577,-118.30847,Myungrang Hot Dog-California Market LA,4.5,680
+42,korean,False,34.068589,-118.309513,GamBoJok,5.0,18
+43,gastropubs,False,34.062075859725105,-118.34557708131399,Spare Tire Kitchen & Tavern,4.0,1080
+44,italian,False,34.07117,-118.37702,Emilia,5.0,48
+45,mediterranean,False,34.076017,-118.3525949,Open Sesame,4.0,680
+46,ramen,False,33.9583942,-118.3941804,The Ramen Joint,4.5,1175
+47,brazilian,False,34.04665,-118.25616,H&H Brazilian Steakhouse,4.5,196
+48,korean,False,34.06012,-118.29128,Kobawoo House,4.5,1142
+49,indonesian,False,34.0595543956397,-118.420109087905,RockSugar Southeast Asian Kitchen,4.0,2449
+50,newamerican,False,34.0604146,-118.345003,Rascal,4.0,733
+51,thai,False,34.09784367,-118.31833767,Hoy-Ka Thai Restaurant,4.5,1711
+52,vietnamese,False,34.0472153480235,-118.256195811488,Little Sister,4.0,1447
+53,italian,False,34.0469300995766,-118.256601457672,Bottega Louie,4.0,16579
+54,newamerican,False,34.054358,-118.251339,Otium,4.0,1877
+55,seafood,False,34.083628000000004,-118.330168,Providence,4.5,2629
+56,newamerican,False,34.0470812,-118.2501365,Hock+Hoof,4.5,246
+57,tikibars,False,34.10187,-118.33383,LONO Hollywood,4.5,358
+58,breakfast_brunch,False,34.0505289,-118.2486189,Eggslut,4.0,5585
+59,gastropubs,False,34.06449,-118.30891,Tipsi,4.5,71
+60,sandwiches,False,34.059722900390604,-118.237022399902,Philippe the Original,4.0,6028
+61,bbq,False,34.0665313022035,-118.254266053011,The Park's Finest,4.0,1996
+62,vegan,False,34.077123,-118.25871399999998,Sage Vegan Bistro - Echo Park,4.0,2148
+63,korean,False,34.0740309655666,-118.309187963605,The Bun Shop,4.0,1497
+64,newamerican,False,34.076190000000004,-118.25656,Adamae,4.5,53
+65,mediterranean,False,34.1026289157429,-118.29194363537701,Sidewalk Grill,4.5,901
+66,mexican,False,34.032791100000004,-118.3417282,Taqueria Los Anaya,4.5,1126
+67,sushi,False,34.08319167,-118.273245,いざかや おせん- IZAKAYA OSEN,4.5,631
+68,hotdog,False,34.0282923762355,-118.27520824470501,Dirt Dog,4.5,1859
+69,korean,False,34.0639032,-118.3061281,Hae Jang Chon Korean BBQ Restaurant,4.0,4764
+70,colombian,False,34.06373,-118.296869,Escala,4.0,1106
+71,newamerican,False,34.083690000000004,-118.33988,Auburn,4.5,72
+72,korean,False,34.0546201,-118.2914951,Ong Ga Nae Korean BBQ,4.5,470
+73,seafood,False,34.0833651,-118.3262166,Mario's Peruvian & Seafood,4.0,2259
+74,korean,False,34.0637349,-118.2943728,Seongbukdong,4.0,1081
+75,sushi,False,34.0476390576719,-118.247747561303,KazuNori  | The Original Hand Roll Bar,4.5,2578
+76,seafood,False,34.0728,-118.37363,COD Restaurant,4.5,663
+77,mideastern,False,34.041509999999995,-118.23261,Bavel,4.5,1065
+78,italian,False,34.050039,-118.248552,Maccheroni Republic,4.0,2760
+79,ramen,False,34.083710700000005,-118.3446759,Tatsu Ramen,4.0,3338
+80,mexican,False,34.052409999999995,-118.30071,Guelaguetza Restaurante,4.0,2115
+81,southern,False,34.048107147216804,-118.326278686523,Gus's World Famous Fried Chicken,4.0,1360
+82,korean,False,34.0693,-118.29253,Dumpling House,4.5,502
+83,foodstands,False,34.0725774690603,-118.214694509262,Corn Man,4.5,897
+84,korean,False,34.04847,-118.30867,Road To Seoul,4.0,3648
+85,taiwanese,False,34.0614,-118.23951,Lao Tao,4.0,404
+86,sandwiches,False,34.04701,-118.26082,The Burrow,5.0,213
+87,chicken_wings,False,34.067454299999994,-118.3096191,Gol Tong Chicken,4.5,549
+88,sushi,False,34.06323,-118.29702,Seaweed Hand Roll Bar,4.5,154
+89,delis,False,34.060099,-118.238083,Little Jewel of New Orleans,4.0,1652
+90,tradamerican,False,34.0511203,-118.2543221,71 Above,4.0,1707
+91,french,False,34.1053549,-118.3246985,Papilles Bistro,4.5,438
+92,greek,False,34.0474029033579,-118.299641746033,Papa Cristo's,4.5,1844
+93,newamerican,False,34.06215,-118.30098,Openaire,4.0,372
+94,italian,False,34.1037812,-118.2872479,La Pergoletta,4.5,776
+95,burgers,False,34.06469,-118.30876,Monty's Good Burger,4.5,1575
+96,tapasmallplates,False,34.0941,-118.32734,Barkada,4.5,279
+97,newamerican,False,34.077585,-118.259599,Masa of Echo Park,4.0,4003
+98,food_court,False,34.0506285480471,-118.248635262566,Grand Central Market,4.0,2483
+99,sandwiches,False,34.0974499,-118.349941,The Carving Board,4.5,660
+100,southern,False,34.0736424077856,-118.376774467984,Yardbird Southern Table & Bar,4.5,934
+101,sushi,False,34.0470000646326,-118.238502456345,Sushi Gen,4.5,3702
+102,burgers,False,34.099540000000005,-118.32911,Stout Burgers & Beers,4.0,2030
+103,korean,False,34.06577,-118.30847,Beut,4.5,30
+104,mediterranean,False,34.1331825256348,-118.35715484619101,Joe's Falafel,4.5,1939
+105,sandwiches,False,34.0945448886537,-118.338174904238,Fat Sal's Deli - Hollywood,4.0,1994
+106,newamerican,False,34.0837144354804,-118.350571407739,Blu Jam Café,4.0,5065
+107,mexican,False,34.0702395145121,-118.250448424643,Guisados,4.5,2004
+108,seafood,False,34.04768,-118.32254,La Cevicheria,4.5,829
+109,greek,False,33.9524703946447,-118.38524200185199,Aliki's Greek Taverna,4.5,1016
+110,lebanese,False,34.09108,-118.28308,Bowery Bungalow,4.5,438
+111,tabletopgames,False,34.01619,-118.28168,The Dragon and Meeple,5.0,53
+112,korean,False,34.062321315088,-118.340898970219,Genwa Korean BBQ,4.5,2773
+113,bars,False,34.101795,-118.3323928,Te'Kila,4.0,928
+114,dimsum,False,34.09779,-118.3183,ixlb DimSum Eats,4.5,566
+115,armenian,False,34.10137,-118.30125,Carousel Restaurant,4.5,660
+116,asianfusion,False,34.061477000000004,-118.299902,Gogobop Korean Rice Bar,4.5,276
+117,filipino,False,34.095634000000004,-118.292729,LA Rose Cafe,4.5,940
+118,southern,False,34.0796,-118.36114,Sweet Chick,4.0,964
+119,ramen,False,34.08316,-118.32627,Ramen Koo,5.0,2
+120,foodstands,False,34.0829620177,-118.217007706,Ave 26 Taco Stand,4.5,1297
+121,asianfusion,False,34.06344,-118.29831,Street Food Of Seoul,4.0,222
+122,indonesian,False,34.029081,-118.411699,Simpang Asia,4.0,1470
+123,mexican,False,34.048120000000004,-118.21147,Guisados,4.5,2401
+124,wine_bars,False,34.0734651,-118.3818814,AOC,4.0,2204
+125,mediterranean,False,34.083487899999994,-118.3518564,Ta-eem Grill,4.5,1075
+126,korean,False,34.0497189,-118.30918490000002,HaSunSaeng - MasterHA,4.5,301
+127,mediterranean,False,34.0477539,-118.2473573,Bäco Mercat,4.0,2535
+128,newamerican,False,34.0690575,-118.226105,Majordōmo,4.0,832
+129,falafel,False,34.03221,-118.36072,Mizlala,4.5,117
+130,cocktailbars,False,34.046306200000004,-118.23425,Nightshade,4.5,325
+131,mexican,False,34.0322509474725,-118.334643803537,L.A. Birria,4.5,89
+132,chicken_wings,False,34.06309,-118.29753999999998,Louders,4.5,80
+133,lounges,False,34.092322,-118.338386203705,Next Door Lounge,4.0,1048
+134,korean,False,34.0615549821861,-118.30431749570101,Myung Dong Kyoja,4.0,1184
+135,tacos,False,34.0416441,-118.2522657,Sonoratown,4.5,719
+136,tradamerican,False,34.1395072937012,-118.210517883301,The Oinkster,4.0,3555
+137,mexican,False,34.0715151,-118.3622707,Mercado Los Angeles,4.0,1106
+138,newamerican,False,34.042289700000005,-118.2542114,Preux & Proper,4.0,1340
+139,korean,False,34.066959999999995,-118.30871,The Kimbap,4.5,468
+140,korean,False,34.07888,-118.30937,Western Doma Noodles,4.0,563
+141,waffles,False,34.0985500248528,-118.322123587418,Roscoe's House of Chicken & Waffles,4.0,3816
+142,seafood,False,34.101867781307504,-118.31200261118201,Catch 56,4.5,461
+143,hawaiian,False,34.004425692649605,-118.42160705539699,Rutt's Hawaiian Cafe,4.0,1649
+144,mexican,False,34.046530597539395,-118.250679851854,Guisados DTLA,4.5,1701
+145,japanese,False,34.02507,-118.41227,n/naka,4.5,692
+146,cocktailbars,False,34.052601,-118.263447,Plan Check Kitchen & Bar,4.0,1144
+147,korean,False,34.063757,-118.295838,Ham Ji Park,4.0,1466
+148,newamerican,False,34.0957165722728,-118.284453105274,The Kitchen,4.0,1410
+149,brazilian,False,34.061358,-118.310453,M Grill,4.5,1980
+150,japanese,False,34.0493955,-118.2397527,Chinchikurin - Little Tokyo,4.0,477
+151,tradamerican,False,34.10268,-118.24345,Wax Paper,4.5,288
+152,korean,False,34.05263,-118.28737,TGI Korean BBQ,4.5,346
+153,movietheaters,False,34.04809,-118.25894333,Alamo Drafthouse Cinema Downtown Los Angeles,4.5,107
+154,bbq,False,34.072078999999995,-118.367209,Slab,4.0,265
+155,sandwiches,False,34.0722521794486,-118.362629252157,Mendocino Farms,4.5,1097
+156,falafel,False,34.1169649464573,-118.262093149437,Dune,4.5,667
+157,mexican,False,34.0906351,-118.307928,Tlayuda La Restaurant,4.5,686
+158,japanese,False,34.0507482399885,-118.241712566147,Azay,5.0,17
+159,mediterranean,False,34.089290000000005,-118.27693,Mh Zh,4.5,380
+160,indonesian,False,34.0500163,-118.24335659999998,Kasih,4.5,391
+161,korean,False,34.057544,-118.305579846558,Magal BBQ,4.5,1595
+162,bbq,False,34.0821746,-118.34423259999998,Bludso's Bar & Que,4.0,1883
+163,ramen,False,34.0837585,-118.352546,E.A.K. Ramen,4.0,336
+164,brazilian,False,34.072166900233,-118.360551042328,Pampas Grill,4.0,1186
+165,bars,False,34.101913,-118.336041,Hot Motha Clucker,4.0,17
+166,italian,False,34.04645900000001,-118.238403,PASTA e PASTA by Allegro,4.5,700
+167,sushi,False,34.0538778,-118.320434,Sushi Hon,4.5,132
+168,korean,False,34.063406790825894,-118.30388175744,Ahgassi Gopchang,4.5,1291
+169,chickenshop,False,34.0833851,-118.309905,The Kluckin Chicken,4.0,22
+170,korean,False,34.064020224511296,-118.297687050455,Quarters Korean BBQ,4.0,2559
+171,mexican,False,34.01744,-118.2783,Chichen Itza Restaurant,4.5,1188
+172,newamerican,False,34.0565145084118,-118.41521503953,Hinoki & The Bird,3.5,1365
+173,salvadoran,False,34.03876,-118.28075,La Pupusa Urban Eatery,4.5,210
+174,soulfood,False,33.9930975470943,-118.25630433001899,Granny's Kitchen,4.0,314
+175,korean,False,34.069218040448796,-118.30518295158998,Ten-Raku,4.5,402
+176,filipino,False,34.1015109972374,-118.293063073577,Oi Asian Fusion,4.5,474
+177,cocktailbars,False,34.044804,-118.25665,Broken Shaker Los Angeles,4.0,409
+178,italian,False,34.0735357290438,-118.35953236650299,Maggiano's Little Italy,4.0,1797
+179,japanese,False,34.0443222,-118.2382339,Shojin Downtown,4.0,1734
+180,korean,False,34.0564415632956,-118.29133851653299,Soowon Galbi KBBQ Restaurant,4.5,2477
+181,italian,False,34.05867,-118.34578,Supremo,4.5,119
+182,newamerican,False,34.0833651,-118.3242882,Kali Restaurant,4.5,491
+183,desserts,False,34.06369,-118.31087,Nadri Korean Tea House,5.0,4
+184,seafood,False,34.0490371292754,-118.25469093254101,Water Grill - Los Angeles,4.0,1995
+185,vegan,False,34.083420000000004,-118.37011,Crossroads,4.0,1941
+186,seafood,False,34.0501374364326,-118.24242217791,Curry House,4.0,1196
+187,korean,False,34.0620862485445,-118.30265844914301,BCD Tofu House,4.0,3973
+188,cocktailbars,False,34.04168,-118.26308,Prank,4.0,725
+189,tacos,False,34.02531,-118.32445,Papi Tacos & Churros,4.5,129
+190,french,False,34.0837537901616,-118.32404690416901,Le Petit Marché,4.0,163
+191,vietnamese,False,34.07512,-118.34437,Nong La Cafe,4.0,558
+192,japanese,False,34.048068183386505,-118.257884198153,HATCH Yakitori + Bar,4.5,353
+193,hotdog,False,34.057693,-118.2936795,Chungchun Rice Hotdogs,4.5,57
+194,chickenshop,False,34.041836309712,-118.259046916196,Birdies,4.0,1733
+195,foodtrucks,False,34.114824,-118.269945,Ricky's Fish Tacos,4.5,1158
+196,pizza,False,34.083252237985704,-118.33880120176501,Pizzeria Mozza,4.0,4162
+197,mexican,False,34.13166,-118.35262,Mercado Hollywood,4.5,656
+198,cocktailbars,False,34.05049,-118.24406,Redbird,4.0,1345
+199,delis,False,33.9880055506272,-118.362671546638,Mike's Deli,4.5,721
+200,vegan,False,34.08279,-118.32404,Cafe Gratitude - Larchmont,4.0,2073
+201,thai,False,34.0869930418948,-118.275715286631,Night + Market Song,4.0,987
+202,taiwanese,False,34.0615394967125,-118.239711444674,BaoHaus,4.0,525
+203,chickenshop,False,34.05753083,-118.29523217,Fire Chicken,4.5,60
+204,mexican,False,33.95998,-118.41685,Benny's Tacos & Chicken Rotisserie,4.5,1920
+205,korean,False,34.069298762013,-118.30728385921302,Jinsol Gukbap,4.5,357
+206,japanese,False,34.048279,-118.258561,Marugame Udon,4.0,80
+207,newamerican,False,34.059600202614,-118.41433960518101,Craft,4.0,1664
+208,thai,False,34.1018849,-118.30513,Ruen Pair,4.0,1692
+209,breakfast_brunch,False,34.100159999999995,-118.33014,The Highlight Room Grill,4.0,190
+210,chickenshop,False,34.057520000000004,-118.30715,Twozone Chicken - 8th,4.5,10
+211,bbq,False,34.051364898681605,-118.308692932129,Ssam Korean BBQ,4.5,1110
+212,halal,False,34.162558000000004,-118.3730708,Urban Skillet,4.0,755
+213,italian,False,34.10906,-118.3697,Pace,4.0,896
+214,thai,False,34.0985027788903,-118.306131251156,Pa Ord Noodle,4.0,1399
+215,chicken_wings,False,34.063309999999994,-118.29501,Michin Dak,4.5,215
+216,newamerican,False,34.08755,-118.33333,Grub,4.0,1869
+217,cafes,False,34.0723701,-118.3443655,The Sycamore Kitchen,4.0,868
+218,asianfusion,False,34.0739776525894,-118.251562701852,Button Mash,4.0,598
+219,italian,False,34.08319,-118.33881,Osteria Mozza,4.0,2711
+220,breakfast_brunch,False,34.0574402282966,-118.345157057047,Three Borders Brunch & Grill,5.0,213
+221,seafood,False,34.10128,-118.31841,Palms Thai Restaurant,4.0,2654
+222,korean,False,34.098144899999994,-118.3504349,BBQ + RICE Korean BBQ Bowls,4.5,229
+223,italian,False,34.045168,-118.256526,Colori Kitchen,4.0,1600
+224,african,False,34.02523,-118.29857,Revolutionario: North African Tacos,4.5,538
+225,ramen,False,34.0484525,-118.23909209999998,Shin-Sen-Gumi Hakata Ramen - Little Tokyo,4.0,2677
+226,asianfusion,False,34.0981492,-118.3501071,Chibiscus Asian Cafe,4.0,1074
+227,coffee,False,34.084366,-118.28663600000002,Sqirl,4.0,1946
+228,bars,False,34.050118910643604,-118.241461110451,Izakaya Fu-ga,4.0,897
+229,cuban,False,34.02114,-118.4036,Versailles Cuban Food,4.0,2185
+230,chickenshop,False,34.0599599,-118.41982,The Crack Shack,4.0,344
+231,newamerican,False,34.0724723090913,-118.35937740052499,Marmalade Cafe,4.0,2142
+232,pubs,False,34.0447654724121,-118.249443054199,The Black Sheep,4.5,1039
+233,italian,False,34.103041999999995,-118.291857,Il Capriccio on Vermont,4.0,945
+234,newamerican,False,34.046195000000004,-118.261698,Faith & Flower,4.0,2393
+235,mediterranean,False,34.0489812,-118.2589574,10e,4.0,612
+236,pubs,False,34.1015151,-118.32331090000002,Blue Palms Brewhouse,4.0,854
+237,mexican,False,34.021171,-118.21276,Mariscos Jalisco,4.5,827
+238,vietnamese,False,34.067257299999994,-118.2356333,Pho 87,4.0,1379
+239,vegan,False,34.10768,-118.26677,Little Pine,4.5,827
+240,japanese,False,34.0636449,-118.3082425,Sushi One,4.0,377
+241,cocktailbars,False,34.07294,-118.37494,Toca Madera,4.0,1833
+242,thai,False,34.06876,-118.30948,Hae Ha Heng Thai Bistro,4.5,1109
+243,newamerican,False,34.0518700505706,-118.25205364100401,Blue Cow Kitchen & Bar,4.0,1268
+244,seafood,False,34.072706,-118.37251,Son of a Gun,4.0,1637
+245,beer_and_wine,False,34.075313,-118.323881,Larchmont Village Wine Spirits & Cheese,4.5,886
+246,bbq,False,34.093029022216804,-118.281455993652,Rich's BBQ,5.0,62
+247,seafoodmarkets,False,34.04083,-118.24018,Fisherman's Outlet,4.0,1099
+248,newamerican,False,34.06389,-118.36596000000002,The Roof on Wilshire,3.5,1375
+249,breakfast_brunch,False,34.06301,-118.30622,Concerto,4.0,1191
+250,indpak,False,34.095583000000005,-118.28517,India's Restaurant,4.5,2205
+251,ethiopian,False,34.05699,-118.36469,Messob Ethiopian Restaurant,4.0,794
+252,thai,False,34.0836965133512,-118.348536419051,Summer Buffalo,4.0,417
+253,mexican,False,34.035217,-118.25591,Mex Perú Gipsy,5.0,754
+254,bakeries,False,34.060254,-118.344982,Roji Bakery,5.0,19
+255,newamerican,False,34.079289,-118.361585,Animal,4.0,3322
+256,chinese,False,34.06004,-118.29062,Wok Bar,4.5,8
+257,shavedice,False,34.076061186294396,-118.34536046455601,Spoon By H,4.5,650
+258,hotdog,False,34.142466,-118.225757,THE CLOUDY GARLIC,4.5,199
+259,gastropubs,False,34.064332,-118.308546,Beer Belly,4.0,2350
+260,foodtrucks,False,34.046438,-118.345718,Leo's Tacos Truck,4.5,1743
+261,cuban,False,34.0887571355407,-118.276930530164,El Cochinito Restaurant,4.0,703
+262,burgers,False,34.079055786132805,-118.361137390137,Golden State,4.0,1499
+263,japanese,False,34.0472018,-118.2388601,KaGaYa,4.5,607
+264,argentine,False,34.083643,-118.347297,Lala's Argentine Grill,4.0,1899
+265,chickenshop,False,34.1719951,-118.4237211,The Kluckin Chicken,4.5,430
+266,newamerican,False,34.074265000000004,-118.252278,The Park,4.0,751
+267,newamerican,False,34.004448100000005,-118.4311095,Little Fatty,4.0,531
+268,japanese,False,34.0489331738058,-118.24038409762301,Shabu Shabu House,4.0,1375
+269,korean,False,34.057539500000004,-118.3072592,Honey Night,4.5,86
+270,german,False,34.07757,-118.34438,Wirtshaus,4.0,830
+271,mediterranean,False,34.1002441,-118.2906102,Kismet,4.0,429
+272,ramen,False,34.0835268538041,-118.273676509195,Silverlake Ramen,4.0,3105
+273,ethiopian,False,34.0571,-118.36465,Lalibela Ethiopian Restaurant,4.5,330
+274,puertorican,False,34.033724,-118.2380432,The Ricans Food,4.5,87
+275,korean,False,34.04777,-118.25684,Koja Kitchen DTLA,4.5,45
+276,italian,False,34.06372,-118.36446,Uovo- Mid-Wilshire,5.0,7
+277,cheesesteaks,False,34.014196000000005,-118.282417,Figueroa Philly Cheese Steak,4.5,1074
+278,breakfast_brunch,False,34.090825,-118.3323209,Eat This Cafe,4.0,996
+279,comfortfood,False,34.0377826,-118.2428721,Comfort LA,4.0,841
+280,japanese,False,34.0982549,-118.3028954,ShaBuShi,4.5,422
+281,korean,False,34.05279,-118.30607,Yuchun,4.0,1041
+282,italian,False,34.0833366755519,-118.31393718099,Osteria La Buca,4.0,1848
+283,italian,False,34.07642,-118.34909,Angelini Osteria,4.5,1724
+284,mongolian,False,34.06177,-118.287258,Golden Mongolian Restaurant,4.5,183
+285,pizza,False,34.099059999999994,-118.33728,L'Antica Pizzeria Da Michele,4.5,313
+286,chinese,False,34.0660399376759,-118.23762042237699,Full Moon House 福临门,4.0,213
+287,thai,False,34.1014312,-118.3029659,Sanamluang Cafe,3.5,1469
+288,tacos,False,34.0343720116648,-118.232130253186,Guerrilla Tacos,4.0,634
+289,breakfast_brunch,False,34.072893,-118.37179,Joan's on Third,4.0,2248
+290,seafood,False,34.063452000000005,-118.299046,EMC Seafood & Raw Bar,4.0,3156
+291,japanese,False,34.0753309,-118.3774933,Marugame Udon,3.5,237
+292,italian,False,34.0302958095499,-118.29208469390899,Monarca Pasta & Grill,4.5,140
+293,cheesesteaks,False,34.095845000000004,-118.287102,Boo's Philly Cheesesteaks - Silverlake,4.5,1057
+294,foodtrucks,False,34.034644,-118.241766,Smorgasburg,4.0,977
+295,ramen,False,34.0505289,-118.2486189,Ramen Hood,4.5,910
+296,breakfast_brunch,False,34.04067,-118.2500946,Poppy + Rose,4.0,2209
+297,chicken_wings,False,34.0527649,-118.30033,Papa's Chicken,4.5,190
+298,korean,False,34.06309,-118.29753999999998,Chadolpoong,4.5,114
+299,mexican,False,34.0596284,-118.3451919,Candela,4.0,638
+300,newamerican,False,34.04608,-118.23489,Manuela,4.0,854
+301,chinese,False,34.0837667,-118.2869649,Wah's Golden Hen,4.5,398
+302,newamerican,False,34.1014294,-118.3263326,Feast,4.0,472
+303,southern,False,34.024758,-118.284446,Honeybird,4.0,133
+304,korean,False,34.0559926754254,-118.30993681349199,Eight Korean BBQ,4.5,1627
+305,burgers,False,34.047441,-118.293926,Dino's Chicken and Burgers,4.0,1959
+306,chinese,False,34.067809999999994,-118.30871,Odumak,4.5,66
+307,korean,False,34.0636762291613,-118.295474328414,Jopok Topokki,4.5,619
+308,bbq,False,34.061357,-118.238547,LA Brisket,5.0,101
+309,filipino,False,34.061495967020896,-118.23956849001199,LASA,4.0,435
+310,coffee,False,34.041974,-118.235426,Urth Caffé- Downtown LA,4.0,5107
+311,chinese,False,34.0741838,-118.2793993,Woon,4.5,150
+312,newamerican,False,34.07638,-118.3696,Nic's on Beverly,4.5,178
+313,bars,False,34.102568,-118.287531,Spitz - Los Feliz,4.0,746
+314,bubbletea,False,34.072952859299896,-118.375559776552,Berlins,4.5,915
+315,brazilian,False,34.0419174907936,-118.25513519106899,Wood Spoon,4.0,1382
+316,korean,False,34.058196310536395,-118.293970786035,Matjip Chigae,4.0,242
+317,korean,False,34.069114899999995,-118.3073944,Zzamong,4.0,849
+318,ramen,False,34.07493,-118.3095,Saikai Ramen Bar,5.0,34
+319,seafood,False,34.0269938,-118.408793,Lobster & Beer,4.0,626
+320,mediterranean,False,34.0399268,-118.4233433,Aroma Cafe,4.0,306
+321,sandwiches,False,34.049318846845004,-118.26079804299201,Mendocino Farms,4.5,752
+322,izakaya,False,34.07181,-118.3655,Robata JINYA,4.0,1039
+323,burmese,False,34.0825691093273,-118.27225267796801,Daw Yee Myanmar Corner,4.5,316
+324,japanese,False,34.065700880695,-118.308863828078,Mimimyunga,4.0,255
+325,pizza,False,34.0910099739038,-118.297762911045,DeSano Pizza Bakery,4.5,1101
+326,cocktailbars,False,33.9969603594416,-118.43156013201599,Hatchet Hall,4.0,632
+327,hotdog,False,34.08403,-118.34439,Pink's Hot Dogs,3.5,7027
+328,korean,False,34.07642,-118.30557,Sulga Jinju Gom Tang House of Beef Soup,5.0,190
+329,japanese,False,34.0489503672593,-118.240031898022,Mitsuru Cafe,4.0,806
+330,japanese,False,34.049705,-118.239652,Sushi Enya,4.5,1337
+331,mediterranean,False,34.0249037,-118.2845961,CAVA,4.0,176
+332,cuban,False,34.05271,-118.37648,Versailles,4.0,1438
+333,burgers,False,34.099915,-118.25892833,Burgers Never Say Die,4.0,297
+334,korean,False,34.06125,-118.28738,Jeonju Hyundaiok,4.5,36
+335,korean,False,34.0669316,-118.2921742,Chef Kang Food Rehab,4.5,989
+336,newamerican,False,34.0756,-118.3838849,The Ivy,3.5,1872
+337,japanese,False,34.0362519,-118.2406688,Hayato,5.0,53
+338,mexican,False,33.9927987,-118.4227098,Casa Sanchez,4.0,1204
+339,noodles,False,34.071974,-118.3656739,Tasty Noodle House,4.0,236
+340,seafood,False,34.03471500000001,-118.241374,Rappahannock Oyster Bar - DTLA,4.5,192
+341,mideastern,False,34.07182,-118.36556000000002,Jaffa,4.0,260
+342,mexican,False,34.0625121510041,-118.348814569312,El Cartel,4.0,482
+343,newamerican,False,34.0486928,-118.2556854,Industriel,4.0,1238
+344,izakaya,False,34.0466898946907,-118.238583702377,Kinjiro,4.5,335
+345,bakeries,False,34.1650667886644,-118.372181815344,Rodini Park,4.5,1403
+346,cajun,False,34.049620000000004,-118.3586,Stevie's Creole Cafe,4.0,445
+347,french,False,34.0481,-118.24846,Le Petit Paris,4.0,1112
+348,burgers,False,34.095946999999995,-118.371902,Carney's Sunset Strip,4.0,765
+349,newamerican,False,33.959442,-118.393598,Truxton's American Bistro,4.0,1366
+350,mexican,False,34.1010002,-118.2872851,Best Fish Taco In Ensenada,4.0,2121
+351,breakfast_brunch,False,34.064136608941105,-118.283886344366,Crispy School,5.0,80
+352,delis,False,34.050419500000004,-118.36212140000002,Olson's Deli,4.5,219
+353,argentine,False,34.0839249,-118.36307990000002,Carlitos Gardel Argentine Steakhouse,4.5,964
+354,mexican,False,34.0571051016069,-118.238055449965,La Noche Buena Restaurant,4.5,333
+355,japanese,False,34.0501009,-118.2421794,Torigoya,4.0,124
+356,mexican,False,34.0571251,-118.346074,El Chato Taco Truck,4.5,1262
+357,vietnamese,False,34.053337799999994,-118.3089351,Ktown Pho,4.5,602
+358,korean,False,34.0538506,-118.321126,Olympic Noodle,4.0,364
+359,newamerican,False,34.0965954,-118.3698476,The Sunset Trocadero Lounge,4.0,265
+360,spanish,False,34.065065999999995,-118.376618,Somni,5.0,72
+361,cocktailbars,False,34.04751,-118.25072,Mezcalero,4.0,435
+362,italian,False,34.075340000000004,-118.32399,Vernetti,4.0,301
+363,sushi,False,34.083659999999995,-118.34331,Tsuri,4.0,627
+364,tradamerican,False,34.04489,-118.2641735,Shaquille’s,3.5,551
+365,korean,False,34.0637349,-118.2962908,Mari Kimbap Shop,4.5,189
+366,mexican,False,34.10743,-118.25441,Salazar,3.5,902
+367,newamerican,False,34.073519299999994,-118.3767501,Farmhouse,4.0,463
+368,korean,False,34.0619071223483,-118.309681576721,Shabu Hyang,4.0,625
+369,tradamerican,False,34.0463748483148,-118.25087074477501,FryMadness,4.5,293
+370,seafood,False,34.07649,-118.30151,Alaska Seafood,4.5,126
+371,mexican,False,34.09544,-118.30256,El Zarape,4.5,549
+372,korean,False,34.063099015201104,-118.29713344573999,Chunju Han-il Kwan,4.0,728
+373,breakfast_brunch,False,34.1015034414584,-118.326035513955,Hollywood Burger,4.5,588
+374,seafood,False,34.05131,-118.27825,Shabuya,4.0,384
+375,newamerican,False,34.030464224078806,-118.38469517318899,Father's Office,3.5,5961
+376,tradamerican,False,34.093984000000006,-118.327639,Doomie's Home Cookin',4.0,1677
+377,korean,False,34.05263,-118.28737,YTB Korean Restaurant,4.5,15
+378,beerbar,False,34.06139,-118.3007,The 8th Notch,4.5,97
+379,newamerican,False,34.16464000000001,-118.37261,ST. ANNE'S,4.5,208
+380,gastropubs,False,34.042762100000004,-118.2536515,Peking Tavern,4.0,730
+381,burgers,False,34.08061,-118.36164,VOWburger,4.5,42
+382,bakeries,False,34.106215,-118.28776,Alcove Café & Bakery,4.0,4185
+383,korean,False,34.05792,-118.30503,Dong II Jang Restaurant,4.0,592
+384,vietnamese,False,34.066871500000005,-118.3615645,Pho Saigon Pearl,4.0,614
+385,bbq,False,34.03191,-118.3352549,Phillips Barbecue,4.0,493
+386,tex-mex,False,34.09979000000001,-118.29021000000002,HomeState,4.5,958
+387,newamerican,False,34.1014405415506,-118.326316136051,Wood & Vine,3.5,1305
+388,sandwiches,False,34.0836847011845,-118.344758972577,All About the Bread,4.0,990
+389,seafood,False,34.0624249247685,-118.29767071534401,The Boiling Crab,4.0,2288
+390,french,False,34.07206,-118.36735,Little Next Door,4.0,1813
+391,chinese,False,34.061291,-118.239499,Qin West Noodle,4.0,195
+392,italian,False,34.0650500417879,-118.246493308503,Eastside Market Italian Deli,4.5,992
+393,desserts,False,34.07134,-118.35687,The Cheesecake Factory,3.0,1398
+394,mexican,False,34.0097381464074,-118.26528590172501,Tire Shop Taqueria,4.5,422
+395,korean,False,34.0578449,-118.2843912,Eighth Street Soondae,4.5,214
+396,pubs,False,34.125675145001004,-118.264257899961,Tam O'Shanter,4.0,1334
+397,korean,False,34.0615866318416,-118.30324183306601,Bulgogi Hut,4.5,2041
+398,korean,False,34.0666354763501,-118.30873835085698,Jun Won Restaurant,4.5,151
+399,mexican,False,34.09772,-118.36769,Pinches Tacos,4.0,816
+400,latin,False,34.10507,-118.27285483,Ceviche Project,4.5,54
+401,mediterranean,False,34.0482095,-118.2398789,Spitz - Little Tokyo,4.0,1593
+402,breakfast_brunch,False,34.057596999999994,-118.29774679999998,H Cafe,4.5,344
+403,korean,False,34.067756012401,-118.308878212251,Mister Bossam,4.0,583
+404,mexican,False,34.07251,-118.2213,Carnitas Michoacan,4.0,1196
+405,chicken_wings,False,33.95968,-118.31648,Wings & Pot,4.0,224
+406,polish,False,34.125401000000004,-118.231779,Polka Polish Restaurant,4.0,773
+407,italian,False,34.038867,-118.23602,The Factory Kitchen,4.0,1296
+408,vegetarian,False,34.077812,-118.264616,Elf Café,4.5,738
+409,sushi,False,34.0491747,-118.2394231,Izakaya Gazen,4.0,305
+410,mediterranean,False,34.0985000246467,-118.349306577298,AL Basch Chicken,5.0,219
+411,sushi,False,34.0761600290924,-118.305407725275,Noshi Sushi,4.0,1343
+412,ramen,False,34.0641366545821,-118.309460922754,Tengoku Ramen Bar,4.5,516
+413,mexican,False,34.0292220404164,-118.38915970176501,La Esquina,4.5,173
+414,latin,False,34.0352819442964,-118.25306619141199,DAMA,4.5,341
+415,ramen,False,34.101362,-118.3454937,Shin Ramen,4.0,763
+416,bars,False,34.07998,-118.25979,The Semi-Tropic,4.5,384
+417,newamerican,False,34.0914091,-118.2792034,Forage,4.0,784
+418,breakfast_brunch,False,34.0326985382412,-118.343422987691,Honey Bee's House of Breakfast,4.0,751
+419,bars,False,34.0833665744252,-118.313257384501,The Edmon,4.0,160
+420,steak,False,34.05793,-118.3023,Taylor's Steakhouse,4.0,1108
+421,newamerican,False,34.04939,-118.256506,Library Bar,4.0,1755
+422,ramen,False,34.1018373715043,-118.300754739329,Fukurou Ramen,4.0,514
+423,chinese,False,34.05239,-118.30342,Young King,4.0,539
+424,colombian,False,34.083723,-118.311995,La Fonda Antioquena,4.0,412
+425,cocktailbars,False,34.04758,-118.25036,The Little Easy,4.0,1016
+426,bbq,False,34.067409999999995,-118.30873,Song Hak Korean BBQ 松鹤韩国烤肉烤肠,4.5,172
+427,korean,False,34.055088608317,-118.291926272213,Crab House,4.0,106
+428,mexican,False,34.0507793579027,-118.24903607368499,Tacos Tumbras a Tomas,4.5,981
+429,french,False,34.1023816986214,-118.291617810179,Loupiotte Kitchen,4.5,95
+430,japacurry,False,34.06191,-118.31437,Katsu by Momota,4.5,211
+431,thai,False,34.09773,-118.335936,Luv2Eat Thai Bistro,4.0,784
+432,korean,False,34.05293,-118.30352,Myung In Dumplings,4.0,745
+433,newamerican,False,34.0762249,-118.3641978,Market Provisions,4.0,373
+434,korean,False,34.05944,-118.28933,OB Bear,4.0,1024
+435,sandwiches,False,34.0995400448557,-118.32916957081899,Banh Oui,4.5,150
+436,coffee,False,34.07956779999999,-118.30928490000002,Mesón Cafe,4.5,403
+437,italian,False,34.0711906,-118.3599417,Andre's Italian Restaurant,4.0,1163
+438,breweries,False,34.0479563134481,-118.256189231247,Karl Strauss Brewing Company,4.5,653
+439,japanese,False,34.063320000000004,-118.30197,Bon Shabu,4.0,458
+440,cocktailbars,False,34.083851,-118.352725,Melrose Umbrella,4.5,481
+441,cambodian,False,34.063925751372196,-118.238599507771,Golden Lake Eatery Cambodian Restaurant,4.5,203
+442,hawaiian,False,34.08254,-118.273196,Ohana Superette,4.0,181
+443,ramen,False,34.0595197,-118.2399294,Okiboru House of Tsukemen,4.5,293
+444,breweries,False,34.055713,-118.23663,Imperial Western Beer Company,4.0,243
+445,seafood,False,34.06925,-118.2933,Rikas Peruvian Cuisine,4.5,124
+446,latin,False,34.08321,-118.32848,Inti Restaurant,4.5,282
+447,chinese,False,34.098079386325104,-118.34466218948401,Hoy's Wok Chinese Restaurant,4.0,559
+448,japanese,False,34.0499,-118.2397,Suehiro Cafe,4.0,1382
+449,filipino,False,34.09516,-118.28382,Ma'am Sir,3.5,377
+450,coffee,False,34.08321,-118.3464,Fratelli Cafe,4.5,1053
+451,italian,False,34.0891889,-118.3329895,Rao's - Los Angeles,4.0,432
+452,pakistani,False,34.0693318,-118.2925028,Biriyani Kabob House,4.5,811
+453,cocktailbars,False,34.0637,-118.30822,Here's Looking At You,4.0,460
+454,breakfast_brunch,False,34.10296,-118.28719,Home Restaurant - Los Feliz,4.0,2727
+455,chicken_wings,False,34.0624241,-118.2810091,HoHo Chicken,4.0,319
+456,butcher,False,34.09764000000001,-118.3334,Gwen Butcher Shop,4.0,529
+457,spanish,False,34.06941,-118.3748,LA Paella,4.0,620
+458,japanese,False,34.0504341125488,-118.30867004394501,The Bento Place,4.5,228
+459,comfortfood,False,34.0354583377676,-118.258565296714,Denim The Eatery,5.0,81
+460,coffee,False,34.08358629999999,-118.3623821,Crumbs & Whiskers - Kitten & Cat Cafe,4.5,426
+461,soup,False,34.0630912780762,-118.297538757324,Yangji Gamjatang,4.0,568
+462,mexican,False,34.10028,-118.32927,Velvet Margarita,4.0,1190
+463,steak,False,34.08332,-118.32738,Omakase Teriyaki,5.0,19
+464,mideastern,False,34.0533114,-118.3767968,Hasiba,4.5,172
+465,burgers,False,34.101411,-118.341748,25 Degrees,3.5,1853
+466,foodstands,False,34.051601700000006,-118.2666403,Porchetta Republic,5.0,34
+467,japanese,False,34.1280284,-118.3469092,Tokyo Cube,4.5,419
+468,armenian,False,34.0909849,-118.2962601,Marouch Restaurant,4.5,436
+469,salad,False,34.0734651,-118.38300929999998,Soom Soom Fresh Mediterranean,4.0,389
+470,southern,False,34.06962,-118.27756,Crawford's,4.5,298
+471,cajun,False,33.9743356,-118.3241718,Red's Flavor Table,4.0,590
+472,peruvian,False,34.09592,-118.32643,Los Balcones,3.5,442
+473,breweries,False,34.06469,-118.34368,6th & La Brea Brewery & Restaurant,4.0,298
+474,mexican,False,34.06175,-118.21331,La Chuperia,4.0,472
+475,soulfood,False,33.9985785,-118.3307743,Dulan's On Crenshaw,4.0,566
+476,newamerican,False,34.0606000129465,-118.34450952921499,Commerson,4.0,415
+477,japanese,False,34.0833787161873,-118.34559626877301,Murakami Sushi,4.5,523
+478,korean,False,34.03951,-118.33956,Ondal 2,4.0,448
+479,asianfusion,False,34.099894275896695,-118.33059072457199,TAO Asian Bistro,4.0,898
+480,newamerican,False,34.0905727,-118.2778757,Sawyer,4.0,654
+481,cocktailbars,False,34.04676,-118.25099,Clayton's Public House,4.0,259
+482,yoga,False,34.0675929,-118.3615449,Hyperslow,4.5,129
+483,bbq,False,34.04676,-118.25099,RiceBox,4.5,163
+484,italian,False,34.0786401,-118.3613451,Jon & Vinny's Fairfax,4.0,1545
+485,italian,False,34.0907526,-118.3884163,Rainbow Bar & Grill,3.5,860
+486,korean,False,34.058,-118.29374,Majangdong,5.0,34
+487,newamerican,False,34.102131,-118.33628799999998,Beetle House LA,3.5,1826
+488,korean,False,34.0574299,-118.30658,Haemaru,4.0,103
+489,grocery,False,34.052237,-118.308515,Koreatown Galleria,4.0,276
+490,korean,False,34.0614471,-118.311821,DaeBuDo,4.5,180
+491,chinese,False,34.0284352846134,-118.27578347899201,Qin West Noodle,4.0,58
+492,ethiopian,False,34.03975,-118.30376,Lucy Ethiopian Restaurant,5.0,2
+493,mexican,False,34.043285635142496,-118.263561241329,Broken Spanish,3.5,880
+494,mexican,False,34.057241299999994,-118.2383631,Cielito Lindo,4.0,793
+495,mediterranean,False,34.1019668579102,-118.327514648438,Perfect Pita,4.5,158
+496,burgers,False,34.065239032628696,-118.237212073467,Burgerlords Chinatown,4.0,732
+497,cafes,False,34.04385,-118.23288,The Black Fig,4.5,148
+498,sandwiches,False,34.04762,-118.32758,The Grain Cafe,4.5,830
+499,hotpot,False,34.061916,-118.3086525,Sinopot Hot Pot 嗨锅,4.0,244
+500,mediterranean,False,34.1157446801662,-118.25143866241,Momed Atwater Village,4.0,520
+501,korean,False,34.056163,-118.309877,Buil Samgye Tang,4.5,415
+502,cajun,False,33.988496999999995,-118.3537791,Orleans & York Deli,4.0,672
+503,indpak,False,34.0509979640131,-118.244926282244,Badmaash - Downtown LA,4.0,1714
+504,ethiopian,False,34.056709999999995,-118.36483,Meals by Genet,4.5,726
+505,mexican,False,34.08321,-118.32848359999998,Tere's Mexican Grill,4.0,529
+506,izakaya,False,34.07267,-118.25178,Tsubaki,4.0,215
+507,korean,False,34.052440000000004,-118.29234,Jeon Ju Restaurant,4.0,356
+508,thai,False,34.098273,-118.306147,Amphai Northern Thai Food,5.0,49
+509,sandwiches,False,34.06341,-118.29378,Brothers Sandwich Shop,4.5,440
+510,korean,False,34.056182861328104,-118.30940246582001,Ma Dang Gook Soo,4.0,617
+511,vegetarian,False,34.0762049,-118.3702675,Backyard Bowls,4.5,456
+512,bars,False,34.099989258625804,-118.329377017197,Saint Felix,4.0,721
+513,chicken_wings,False,34.0905951,-118.3255861,Jesse Boy,4.5,324
+514,thai,False,34.10199,-118.30323,Sapp Coffee Shop,4.0,888
+515,cafes,False,34.0998273592582,-118.328218571842,Duidough Cafe & Cookie Lab,4.5,158
+516,korean,False,34.06012,-118.29128,Yuchun,4.5,161
+517,french,False,34.04155,-118.25704,Zinqué,4.5,54
+518,burgers,False,34.083851,-118.34803259999998,MJ's Grill,4.5,52
+519,thai,False,34.1018549,-118.3120862,Pailin Thai Cuisine,4.5,414
+520,caribbean,False,34.00574,-118.33183,Ackee Bamboo Jamaican Cuisine,4.0,343
+521,newamerican,False,34.08251,-118.32332,Lemonade,4.0,547
+522,newamerican,False,34.1040989,-118.291367,Atrium,4.0,257
+523,farmersmarket,False,34.06143,-118.35405,Comfort Kitchen,4.5,35
+524,thai,False,33.95878,-118.39451,Ayara Thai Cuisine,4.0,1977
+525,cafes,False,34.07718,-118.26406,Larchmont Bungalow Cafe,4.5,246
+526,bars,False,34.0449339896765,-118.265804750686,Yard House,3.5,2591
+527,japanese,False,34.099696,-118.3234477,Sorra,4.0,25
+528,french,False,34.084159,-118.338194,Petit Trois,4.0,807
+529,argentine,False,34.0574375,-118.2937431,ACA Grill,4.5,430
+530,pizza,False,34.097718,-118.328681,Stella Barra Pizzeria,4.0,1164
+531,latin,False,34.047022,-118.21915,un solo sol,4.5,595
+532,bars,False,34.07639,-118.25579,Ostrich Farm,4.0,441
+533,brazilian,False,33.9993315315793,-118.41830677293501,Cafe Brasil,4.0,805
+534,japanese,False,34.050052,-118.242365551451,Rice & Nori,4.5,180
+535,indpak,False,34.083659999999995,-118.34327,Anarkali Indian Restaurant,4.0,2529
+536,pizza,False,34.0834606247128,-118.295175379382,Gracie's Pizza,4.5,495
+537,burgers,False,34.0951603,-118.28314009999998,My Vegan Gold,4.5,739
+538,breakfast_brunch,False,34.0474472045898,-118.346229553223,Roscoe's House of Chicken & Waffles,4.0,2750
+539,newamerican,False,34.060875964960296,-118.300418803083,The Venue,4.0,221
+540,coffee,False,34.0660603325114,-118.26021987944799,Laveta,5.0,8
+541,mexican,False,34.0807951106153,-118.386972025037,Gracias Madre,4.0,3975
+542,sushi,False,34.061407,-118.309408,Sushi Ippo,4.0,1308
+543,salad,False,34.083673,-118.341008,California Chicken Cafe,4.0,821
+544,caribbean,False,33.9880618,-118.35921575294901,Little Kingston Jamaican Restaurant,4.0,242
+545,chicken_wings,False,34.0478772882268,-118.325449256493,Angry Chicken,4.5,135
+546,vegan,False,34.056359045250396,-118.250936711212,Au Lac,4.0,873
+547,italian,False,34.0838749349319,-118.353523872793,Spartina,4.0,334
+548,japanese,False,34.04302,-118.42213999999998,The Teriyaki House Pico,4.5,247
+549,newamerican,False,34.039642,-118.428946,Westside Tavern,4.0,1445
+550,korean,False,34.062401,-118.297588,Wako Donkasu,4.0,639
+551,japanese,False,34.047090000000004,-118.24865,Yuko Kitchen,4.5,285
+552,brazilian,False,34.0982846,-118.3466992,Bossa Nova on Sunset,3.5,3062
+553,korean,False,34.0638387855043,-118.29682785417299,Jokbal 1030,4.5,106
+554,sushi,False,34.105509999999995,-118.33701,Shintaro Sushi,4.0,494
+555,latin,False,34.057823,-118.308776,Pollo a La Brasa Western,4.0,790
+556,cajun,False,34.0109188033204,-118.33665262482401,Cafe Creole,4.0,174
+557,korean,False,34.0622771,-118.2975168,BongChu,4.0,223
+558,latin,False,34.0171789745852,-118.27835060656099,Holbox,5.0,272
+559,sportsbars,False,34.0908543,-118.2783261,33 Taps Silver Lake,4.5,324
+560,newamerican,False,34.04716,-118.24708,Blacksmiths,4.5,587
+561,pizza,False,34.083870000000005,-118.35253,Blackbird Pizza Shop,4.5,231
+562,mexican,False,34.15258,-118.36437,Cascabel,4.0,758
+563,caribbean,False,34.017,-118.30854,Tracey's Belizean Restaurant,4.5,118
+564,latin,False,34.0451574646618,-118.328444697098,La Picca,3.5,13
+565,indonesian,False,34.0269938,-118.408793,Mr. Sate,4.5,204
+566,greek,False,34.104039020643,-118.328794788804,Good Greek Grill,4.5,258
+567,ramen,False,34.0469096407686,-118.23841623381901,Men Oh Tokushima Ramen,4.0,1211
+568,argentine,False,34.011070399999994,-118.4196397,Empanada's Place,4.5,733
+569,vegetarian,False,34.050409,-118.361676,Powerplant Superfood Cafe,4.5,578
+570,persian,False,34.1298834560528,-118.348730430007,Kaban Persian Restaurant,4.5,142
+571,pizza,False,34.0739747,-118.3238054,Village Pizzeria,4.0,1426
+572,bars,False,34.10605,-118.25694,Ivanhoe Restaurant & Bar,4.5,332
+573,japanese,False,34.048095629331605,-118.24692675065901,Sushi Zo,4.5,260
+574,asianfusion,False,34.050109899999995,-118.25794,Kues Restaurant,4.0,147
+575,thai,False,34.0507299112262,-118.248818814755,Sticky Rice,4.0,876
+576,foodtrucks,False,34.0090951,-118.2566828,Super Tortas DF,4.5,151
+577,latin,False,34.0359554,-118.2920263,Caveman Kitchen,4.0,424
+578,cajun,False,34.0254551,-118.327966,Harold & Belle's,3.5,859
+579,singaporean,False,34.07172,-118.360257,Singapore's Banana Leaf,3.5,678
+580,african,False,34.05272,-118.37456,Aduke African cuisine,4.0,71
+581,cheese,False,34.0978951,-118.3643588,Vromage,5.0,220
+582,lounges,False,34.103099,-118.291665,The Dresden Restaurant,4.0,821
+583,mexican,False,34.04675,-118.28247,King Taco,3.5,1003
+584,ramen,False,34.04802670000001,-118.2400318,Hakata Ikkousha,4.0,514
+585,hotdog,False,34.0156233070285,-118.334755915362,Earle's On Crenshaw,4.5,341
+586,brazilian,False,34.1072244,-118.2872751,Tropicalia Brazilian Grill,4.0,561
+587,coffee,False,34.1088282,-118.2872851,All Time,4.5,231
+588,tradamerican,False,34.14217,-118.39046,Mister O's,4.0,198
+589,seafood,False,34.06355,-118.28741,Oh My Crab,3.5,15
+590,korean,False,34.06273,-118.30946000000002,Jeong Yuk Jeom,4.0,197
+591,british,False,34.0981715,-118.3555408,The Pikey,4.0,658
+592,korean,False,34.052859999999995,-118.29235,Beverly Soon Tofu Restaurant,4.0,1455
+593,wine_bars,False,34.03545,-118.2338486,Pour Haus Wine Bar,4.5,497
+594,seafood,False,34.08902,-118.26905,L & E Oyster Bar,4.0,605
+595,sushi,False,34.0484675,-118.2402491,Komasa Sushi,4.5,1283
+596,tex-mex,False,34.0483374,-118.24778059999998,BAR Ama,4.0,1184
+597,japanese,False,34.0982881765286,-118.322727680951,SUGARFISH by sushi nozawa,4.0,441
+598,sushi,False,34.07776,-118.37694,Sushi Fumi,4.5,300
+599,donuts,False,34.048359999999995,-118.24071,Dōnatsu,4.5,227
+600,korean,False,34.025032,-118.285465,KOBUNGA,4.5,150
+601,mexican,False,34.04714,-118.21799,Birrieria Don Boni,4.5,416
+602,italian,False,34.08319,-118.33908,Chi Spacca,4.0,552
+603,mediterranean,False,34.0450795388029,-118.260710767695,Panini Kabob Grill,4.0,1348
+604,mexican,False,34.0574823572481,-118.237740052736,El Paseo Inn,4.0,1128
+605,pizza,False,34.0839,-118.35864,Ghost Pizza Kitchen,5.0,42
+606,falafel,False,34.09115,-118.30078,Falafel-Arax,4.5,303
+607,cafes,False,34.113971015122296,-118.307670183713,The Trails,4.0,583
+608,kebab,False,34.067370000000004,-118.30892,Fei Xiang Gong,5.0,7
+609,japanese,False,34.0473871154639,-118.257194872353,SUGARFISH by sushi nozawa,4.0,2347
+610,dimsum,False,34.07287,-118.37428,My Little Dumpling,4.0,159
+611,restaurants,False,34.03396,-118.22965,Bon Temps,4.5,59
+612,pizza,False,34.073159999999994,-118.38347,Pizzeria Il Fico,4.5,457
+613,sushi,False,34.10226,-118.32482,Totoyama Sushi & Ramen,4.0,199
+614,ramen,False,34.04867,-118.25753,JINYA Ramen Bar,4.0,325
+615,burgers,False,34.069511,-118.276321,Tommy's Original World Famous Hamburgers,4.0,1207
+616,french,False,34.0782765,-118.2614713,Taix French Restaurant,4.0,805
+617,korean,False,34.0575551,-118.3061617,Plato,4.0,419
+618,peruvian,False,34.15009000000001,-118.3781,Los Balcones - Studio City,4.0,88
+619,indpak,False,34.04013967,-118.3085835,House of Curry,4.0,223
+620,newamerican,False,34.0771299,-118.38068,GRANVILLE,4.5,1147
+621,salad,False,34.035035353190196,-118.283531060368,Everytable,4.5,273
+622,tradamerican,False,34.06333,-118.30072,Cassell's Hamburgers,4.0,1488
+623,petadoption,False,34.07602,-118.28625,The Dog Cafe,4.0,254
+624,korean,False,34.062795820030395,-118.297739280426,Hong Kong Ban Jum 0410 / Paik's Noodle,4.5,463
+625,bars,False,34.0615438794415,-118.30814156681299,Terra Cotta,3.5,409
+626,caribbean,False,34.0514736,-118.3442814,Belizean Paradise,4.5,144
+627,japanese,False,34.075135,-118.308649,Brothers Shabuhouse,4.0,68
+628,burgers,False,34.020397,-118.422313,Tripp Burgers,4.5,13
+629,kosher,False,34.0540991,-118.3809107,Kabob By Faraj Restaurant & Kosher Meat Market,4.5,225
+630,sandwiches,False,34.0825531,-118.2731253,Black Hogg Sandwiches,4.5,189
+631,chinese,False,34.061820000000004,-118.23735,Won Kok Restaurant,3.5,1188
+632,steak,False,34.0476649355579,-118.26121877315398,Fogo de Chão Brazilian Steakhouse,3.5,1050
+633,shanghainese,False,34.1434651,-118.2560737,Din Tai Fung,4.0,3428
+634,mexican,False,34.0938088,-118.3268092,La Numero Uno,4.5,413
+635,diners,False,33.97795,-118.37064,Pann's Restaurant,4.0,1170
+636,breakfast_brunch,False,34.0901908874512,-118.277725219727,Cliff's Edge,4.0,1628
+637,salad,False,33.99936,-118.41891,Green Apple Cafe,5.0,6
+638,mediterranean,False,34.1012388,-118.331478,D's Dubai Sauce,4.5,224
+639,sushi,False,34.0983251117854,-118.329668986864,Waku Waku Sakebar,4.5,137
+640,newamerican,False,34.1050072105896,-118.330558128655,Madera Kitchen,3.5,445
+641,wine_bars,False,34.08326,-118.3483,Severance,4.5,69
+642,lounges,False,33.99689,-118.42654,Alibi Room,4.0,1466
+643,gourmet,False,34.059609,-118.41943700000002,Eataly - Los Angeles,3.5,1933
+644,japanese,False,34.0492265,-118.2396326,Oomasa,3.5,1290
+645,ramen,False,34.07755,-118.37695,Kai Ramen,4.5,176
+646,wine_bars,False,34.104069773270396,-118.272939999995,Barbrix Restaurant & Wine Bar,4.0,1137
+647,tradamerican,False,34.1205338,-118.25797659999998,Thank You For Coming,4.5,78
+648,asianfusion,False,34.07603,-118.32399,Good Goose Cafe,5.0,81
+649,japanese,False,34.0451126098633,-118.30883026122999,Bento Man,4.0,230
+650,newamerican,False,34.10722,-118.26418,Small Town,4.0,55
+651,seafood,False,34.10198,-118.31498,Natalie Peruvian Seafood Restaurant - Hollywood,4.0,408
+652,argentine,False,34.038745880127,-118.388565063477,The Empanada Factory,4.0,296
+653,sushi,False,33.957713033813,-118.395974141022,Kanpai Japanese Sushi Bar & Grill 2,4.0,618
+654,desserts,False,34.1014587306602,-118.32711629140199,The Pie Hole,4.0,449
+655,vietnamese,False,34.06248,-118.23642,Pho Hoa Vietnamese Restaurant,4.5,397
+656,poke,False,34.063993,-118.283838,Pokémolé,4.5,306
+657,streetvendors,False,34.035300098829396,-118.24125964748801,Shrimp Daddy,4.0,201
+658,korean,False,34.06876,-118.30948,Tasty Grill,4.5,220
+659,foodtrucks,False,34.0986671447754,-118.30989074707001,Leo's Tacos Truck,4.0,272
+660,italian,False,34.06642,-118.37659,The Stinking Rose,4.0,4230
+661,filipino,False,34.06467,-118.2650419,HiFi Kitchen,4.5,40
+662,wine_bars,False,34.068360974484,-118.34393301904899,Kass Wine Bar & Restaurant,4.5,89
+663,newamerican,False,34.095620000000004,-118.29534,Five Leaves LA,4.0,106
+664,modern_european,False,34.04704,-118.25593,V,4.5,36
+665,coffee,False,34.062402,-118.343631,Bird on the Tree Cafe,4.5,112
+666,waffles,False,34.1017821426933,-118.34033910011101,Wafflejack,4.0,184
+667,chinese,False,34.008959999999995,-118.3349751,New China Mongolian Bbq,4.5,46
+668,bars,False,34.07293667,-118.25160283,OTOTO,4.0,36
+669,thai,False,34.098537711277196,-118.304088372373,Jitlada,3.5,1923
+670,seafood,False,34.0445128974681,-118.265206574205,Rock'N Fish,3.5,1178
+671,newamerican,False,34.041925799999994,-118.2591395,Mikkeller DTLA,4.0,389
+672,japanese,False,33.96185,-118.4214,Kanpai Japanese Sushi Bar & Grill,4.0,1403
+673,indpak,False,34.07878,-118.36113,Badmaash - Fairfax,4.0,214
+674,bbq,False,34.14114,-118.375937,Ohana BBQ,4.5,348
+675,foodstands,False,34.0760671,-118.257599,Oaxacan Quesadilla Cart,4.5,159
+676,newamerican,False,34.04697,-118.25557,The NoMad Restaurant,4.0,323
+677,desserts,False,33.9886408,-118.3533352,Crustees Eatery,5.0,63
+678,korean,False,34.06012,-118.29128,Jang Ga Ne,4.5,88
+679,mexican,False,34.0466,-118.21837,Casa Fina Restaurant & Cantina,4.0,492
+680,persian,False,34.04299,-118.25838,Shekarchi Restaurant,4.0,508
+681,korean,False,34.0504565917164,-118.29196677220101,Wi Korean BBQ,4.5,314
+682,spanish,False,34.06997360097,-118.37655901908899,The Bazaar by José Andrés,4.0,3782
+683,mexican,False,34.03967,-118.25472,Cilantro Lime,4.5,362
+684,newamerican,False,34.08477,-118.28715,Melody,4.0,183
+685,coffee,False,34.071382,-118.343837,Bluestone Lane,4.0,116
+686,wine_bars,False,34.04450300000001,-118.24037,High Tide,4.5,96
+687,chicken_wings,False,34.0835735963673,-118.34313471133,Hot Wings Cafe,4.0,855
+688,breakfast_brunch,False,34.039413,-118.232504,Zinc Cafe & Market,4.0,1651
+689,tacos,False,34.08827,-118.32633,Cactus Taqueria #1,4.0,900
+690,mediterranean,False,34.097559999999994,-118.3357,RoRo's Chicken,4.0,556
+691,mediterranean,False,34.0405783979891,-118.37664432930201,Pita Café,4.0,221
+692,streetvendors,False,34.0452489,-118.2353477,Lou’s Hot Chicken,5.0,79
+693,italian,False,34.076570000000004,-118.31101,Antico Restaurant,4.0,49
+694,bbq,False,34.0421867,-118.3088951,Chin's Hawaiian Teriyaki Bbq Chicken,4.0,62
+695,filipino,False,34.14177,-118.22111,Eagle Rock Kitchen,4.5,170
+696,ramen,False,34.063309999999994,-118.29501,Ten Ramen,4.0,551
+697,mediterranean,False,34.04825,-118.24653,Spread Mediterranean Kitchen,4.5,401
+698,bbq,False,34.063835049145304,-118.30597802996598,Byul Gobchang,4.5,674
+699,korean,False,34.063852000000004,-118.294609,Dan Sung Sa,4.0,814
+700,tradamerican,False,34.073855,-118.239959,Dodger Stadium - Stadium Club,4.0,175
+701,breakfast_brunch,False,34.073813488835505,-118.37749183589399,Eggslut,3.5,289
+702,korean,False,34.0622606,-118.2975594,JJUKKU JJUKKU BBQ,4.0,857
+703,cannabisdispensaries,False,34.092659999999995,-118.34442,Lowell Farms: A Cannabis Cafe,4.0,5
+704,thai,False,34.095450468319896,-118.28494475374,Wat Dong Moon Lek Noodle,4.0,975
+705,bbq,False,34.0357902466995,-118.263903692454,Bo Daddy’s BBQ,5.0,31
+706,bars,False,34.1116,-118.287737,MESSHALL,3.5,1245
+707,sushi,False,34.08449667,-118.38426667,Izakaya Tora,4.5,67
+708,soulfood,False,33.98863720000001,-118.354468,Simply Wholesome,4.0,716
+709,breakfast_brunch,False,34.062127000000004,-118.311328,Egg Tuck,4.0,193
+710,korean,False,34.0527649,-118.30033,Gam Ja Gol,4.0,402
+711,sushi,False,34.04882,-118.25135,Mrs Fish,4.0,874
+712,newamerican,False,34.0996099751367,-118.331350050867,Mama Shelter Rooftop Bar,3.5,383
+713,sushi,False,34.0527245840645,-118.318525234489,Doshi Fish,5.0,33
+714,cafes,False,34.0344334,-118.29168490000002,Bird's Nest Cafe,4.0,693
+715,seafood,False,34.0762031,-118.3779835,Cattle & Claw,4.0,151
+716,korean,False,34.05279,-118.27807,Daebokjung,4.5,35
+717,vietnamese,False,34.1045859,-118.330197,It's Pho hollywood,4.0,842
+718,vietnamese,False,34.101615100000004,-118.3017033,Pho Thai Town,4.0,346
+719,japanese,False,34.073128000000004,-118.376015,Manpuku Japanese Yakiniku Dining,4.5,90
+720,soulfood,False,34.032779999999995,-118.35994,Alta West Adams,4.0,234
+721,korean,False,34.0645232051611,-118.309164494276,Chakan Sul Lung Tang,4.5,163
+722,cajun,False,34.09783461613649,-118.3233207,The Kickin’ Crab,4.0,49
+723,burgers,False,34.0242256,-118.2846996,Wahlburgers,3.5,203
+724,newamerican,False,34.0599599,-118.41982,Saint Marc,3.5,172
+725,mexican,False,34.056529,-118.344882,Trejos Tacos - La Brea,3.5,1597
+726,newamerican,False,34.1053834528783,-118.318904112569,Birds Rotisserie Chicken Cafe & Bar,4.0,916
+727,chinese,False,34.053655,-118.319659,Feng Mao Lamb Kebab,4.5,540
+728,newamerican,False,34.092096999999995,-118.279745,The Black Cat,4.0,458
+729,tacos,False,34.105472,-118.247701,Frogtowns Gourmet Tacos,5.0,105
+730,italian,False,34.03447,-118.28341,Bacari W. Adams,4.0,1353
+731,burgers,False,34.04074,-118.42786,The Apple Pan,3.5,2804
+732,chicken_wings,False,34.0833,-118.34999,Love Baked Wings,4.0,371
+733,ramen,False,34.05941,-118.292,Ginza Ramen,4.5,216
+734,vegan,False,34.09523,-118.29583999999998,BESTIES Vegan Paradise,5.0,38
+735,seafood,False,34.04712,-118.25708,Le Grand,4.5,157
+736,italian,False,34.105764,-118.273017,Speranza,4.0,572
+737,vegan,False,34.0456533607716,-118.232452260713,Cafe Gratitude,4.0,915
+738,korean,False,34.047509000000005,-118.324763,Han Mi Jung,4.5,69
+739,japanese,False,34.07363220000001,-118.3237649,Muraya,4.5,90
+740,gastropubs,False,34.08324,-118.34769,The Parlor,3.5,648
+741,newamerican,False,34.0448754975184,-118.232614428836,ediBOL,4.5,551
+742,mexican,False,34.02362,-118.26508,Birrieria Los Gonzalez,4.0,161
+743,mexican,False,34.09779,-118.36872,Pink Taco,3.5,1106
+744,salad,False,34.098178000000004,-118.322718,sweetgreen,4.0,256
+745,ramen,False,34.062038,-118.34248490000002,bushi by JINYA,4.0,108
+746,japanese,False,34.0734703628775,-118.344228062962,SUGARFISH by sushi nozawa,4.0,609
+747,burgers,False,34.075395,-118.323818,Burger Lounge,4.0,333
+748,sushi,False,34.06194,-118.34573,Ariyoshi Sushi Cafe Izakaya,4.0,1033
+749,catering,False,34.1310746346082,-118.21667169342301,Max City BBQ,4.0,918
+750,breakfast_brunch,False,34.0633975,-118.3759994,Prospect Gourmand,4.5,725
+751,french,False,34.0719955,-118.360253,Monsieur Marcel,4.0,743
+752,korean,False,34.09049,-118.31391,BBQ + Rice,5.0,78
+753,cafes,False,34.06273,-118.30946000000002,Klat,4.0,630
+754,italian,False,34.0384797647149,-118.23475135662201,Brera Ristorante,4.0,541
+755,indpak,False,34.072291,-118.368852,Electric Karma,4.0,793
+756,newamerican,False,34.0896835327148,-118.295028686523,SharksTeeth,4.5,48
+757,italian,False,34.1031036908857,-118.29191069626499,Rocco's Italian Market and Deli,4.5,210
+758,newamerican,False,34.0888,-118.3769,Blackship,4.0,162
+759,korean,False,34.0527349,-118.3055926,Healthy Zone Jook Hyang,4.5,285
+760,mexican,False,34.000589536319104,-118.27385217200899,Chicharroland,4.5,67
+761,newamerican,False,34.050802000000004,-118.253996,Bunker Hill Bar & Grill,3.5,841
+762,chicken_wings,False,33.9884613562767,-118.329986145998,The Buffalo Spot,3.0,124
+763,newamerican,False,34.0869539412233,-118.37675299821699,Barton G - Los Angeles,3.5,2273
+764,mexican,False,34.0838374478871,-118.213408961892,Carnes Asadas Pancho Lopez,5.0,94
+765,vegan,False,34.0763201,-118.3659884,Araya's Place - Thai Vegan Restaurant,4.5,615
+766,salvadoran,False,34.050675325555304,-118.248655145963,Sarita's Pupuseria,4.0,712
+767,newamerican,False,34.09526,-118.29498,Square One Dining,4.0,1633
+768,chinese,False,34.061114,-118.240917,New Kamara,4.0,45
+769,japanese,False,33.996673583984396,-118.428680419922,Shojin Culver City,4.5,414
+770,wine_bars,False,34.083525,-118.363209,Froma on Melrose,4.5,272
+771,breakfast_brunch,False,34.092421,-118.338992,Salt's Cure,3.5,343
+772,cheese,False,34.1388953,-118.2123078,Milkfarm,4.5,206
+773,mexican,False,34.068347,-118.2625568,Tamales Alberto,4.5,309
+774,seafoodmarkets,False,34.0253611314965,-118.345958349049,Mel's Fish Shack,4.0,399
+775,newamerican,False,34.0443026525531,-118.26468279268299,Tom's Urban - LA Live,3.5,2598
+776,korean,False,34.05786,-118.30274,Oo-Kook Korean BBQ,4.0,1797
+777,coffee,False,34.1015475337119,-118.31318378448499,Bolt,4.5,348
+778,korean,False,34.05263,-118.2869,Yangmani,4.5,181
+779,steak,False,34.0446963342719,-118.26536453203,Fleming's Prime Steakhouse & Wine Bar,4.0,1529
+780,japanese,False,34.0634850866332,-118.29276982694901,Tokyo Hamburg,4.0,397
+781,mideastern,False,34.020886700000005,-118.4027079,Jaffa Palms,4.5,73
+782,mexican,False,34.083399,-118.313686,Antequera De Oaxaca,4.0,189
+783,bars,False,34.0498670183998,-118.257390769312,Public School 213,3.5,826
+784,desserts,False,34.0335465,-118.2405124,S'moreology,5.0,43
+785,mexican,False,34.10596,-118.27281,Mi Corazon,3.5,194
+786,mexican,False,34.0634262,-118.2456717,Mexicali Taco & Co,4.0,870
+787,noodles,False,34.070003381568796,-118.291719248431,Pho Legend,4.0,201
+788,breakfast_brunch,False,34.0472167,-118.238885,Aloha Café,4.0,656
+789,italian,False,34.02647,-118.24329,IL Bambino Restaurant,5.0,148
+790,chickenshop,False,34.0462278,-118.2509366,The Red Chickz,4.0,281
+791,cafes,False,34.0387116497577,-118.26425293678301,Cow Cafe,4.5,129
+792,mexican,False,34.04534,-118.21398,Al & Bea's Mexican Food,4.0,680
+793,greek,False,34.07393,-118.32398,Le Petit Greek,3.5,411
+794,coffee,False,34.0453201,-118.2362393,The Pie Hole,4.0,3033
+795,beerbar,False,34.0775496584095,-118.26473220715499,Mohawk Bend,4.0,2362
+796,catering,False,34.0056987,-118.3342202,Castle's Catering,5.0,25
+797,salvadoran,False,34.0763908,-118.3068031,Jaragua,4.0,399
+798,french,False,34.0841710129418,-118.33812003620899,Trois Mec,4.0,642
+799,steak,False,34.068843,-118.398751,The Penthouse at Mastro's,4.0,4633
+800,korean,False,34.0478722,-118.3257373,Ham Ji Park,4.0,154
+801,korean,False,34.0673800451829,-118.30882754146099,To Soc Chon,4.5,61
+802,thai,False,34.074112265321304,-118.309435440475,Isaan Station Thai Street Food,4.0,588
+803,japanese,False,34.09106,-118.33822,Soregashi,4.5,117
+804,salvadoran,False,34.07655,-118.294522,Atlacatl Restaurant,4.0,466
+805,breakfast_brunch,False,34.08957,-118.24977,Pollen,4.0,365
+806,brazilian,False,34.0156678,-118.4127939,Cantinho Brasileiro,4.5,25
+807,coffee,False,34.060212,-118.291328,Alchemist Coffee Project,4.5,1058
+808,ramen,False,34.10376,-118.3284,Kai Ramen At Joseph's Cafe,4.5,65
+809,chicken_wings,False,34.0628631,-118.3062672,Kitchen Sooda,4.0,172
+810,sushi,False,34.0753143697871,-118.323578542976,Kiku Sushi,4.0,396
+811,desserts,False,34.070140838623,-118.30754089355499,Yellow House Cafe,4.0,1084
+812,breakfast_brunch,False,34.08307,-118.28427,Jewel,4.5,193
+813,mediterranean,False,34.0725807877071,-118.370591117691,Prime Cutts,4.0,209
+814,cafes,False,34.0838349,-118.3692845,Carrera Cafe,4.0,324
+815,tradamerican,False,34.1053837710299,-118.318757477583,Franklin & Company Tavern,3.5,476
+816,chinese,False,34.048593,-118.25917,Wokcano,3.5,1425
+817,mideastern,False,34.0983351,-118.2977342,Lory's Restaurant,4.5,45
+818,szechuan,False,34.058603000000005,-118.419048,Meizhou Dongpo Restaurant,3.0,730
+819,german,False,34.00413,-118.43102,Rasselbock L.A. Kitchen & Beer Garden,4.0,104
+820,korean,False,34.0981349,-118.32749540000002,BIBIBOP Asian Grill,4.0,114
+821,newamerican,False,34.073631126623695,-118.36157755208,Tart Restaurant,3.5,1271
+822,sushi,False,34.042102813720696,-118.263687133789,Arashi Sushi,4.0,727
+823,cafes,False,34.0768811,-118.2580069,Honey Hi,4.5,232
+824,cocktailbars,False,34.0479912921288,-118.258466860049,District,4.0,492
+825,newamerican,False,34.097646099535396,-118.352917253222,Electric Owl,4.0,323
+826,seafood,False,34.0487526,-118.2591268,Seasalt Fish Grill,4.0,778
+827,italian,False,34.0978651,-118.3256499,Fabiolus Cucina,4.0,838
+828,indpak,False,34.0256549,-118.294352,Himalayan House,4.0,297
+829,bbq,False,34.1039347869618,-118.23773860931401,Big Ants BBQ,4.5,90
+830,soulfood,False,33.969506,-118.309089,M'Dear's Bakery & Bistro,3.5,265
+831,sushi,False,34.0487781,-118.2406613,Kura Revolving Sushi Bar,3.5,1315
+832,newamerican,False,34.076269,-118.383588,The Henry,4.0,647
+833,mexican,False,34.0245048089441,-118.411181166243,Kogi Taqueria,3.5,560
+834,bbq,False,34.0731375814386,-118.359528610238,Wood Ranch BBQ & Grill,3.5,939
+835,breakfast_brunch,False,34.02876,-118.27517,Jacks N Joe,4.0,2009
+836,mediterranean,False,34.0982591211858,-118.36065920291,Zankou Chicken,4.0,390
+837,tradamerican,False,34.0556347,-118.27464779999998,Diamond Buffet & Grill,3.5,229
+838,seafood,False,34.0515515,-118.2534951,Pez Cantina,4.0,842
+839,mexican,False,34.047068100000004,-118.2843635,Happy Taco,4.0,365
+840,latin,False,34.03904,-118.30941,Sabor Nicaragüense Restaurant,4.5,61
+841,mexican,False,34.033920157678104,-118.29148504989,La Barca Restaurant,4.0,827
+842,pizza,False,34.06188,-118.34278,Apollonia's Pizzeria,4.0,389
+843,italian,False,34.051928886639196,-118.384493526285,Trattoria Bella Roma,4.5,502
+844,bars,False,34.098226925552105,-118.32289011904899,Paley,3.5,311
+845,mexican,False,34.00225,-118.26484,Mariscos La Corita,4.5,100
+846,mideastern,False,34.044814,-118.25666,The Exchange Restaurant,4.0,344
+847,chinese,False,34.0725530931457,-118.292156606913,Sea Dragon Chinese Restaurant,4.0,384
+848,falafel,False,34.040957500000005,-118.257195,Dune Downtown,4.5,130
+849,korean,False,34.0497265,-118.30918490000002,Meat Love Korean BBQ,4.0,392
+850,beerbar,False,34.0583838,-118.3088809,Southland Beer,4.5,180
+851,vietnamese,False,34.06323,-118.29702,Pho 24,4.0,640
+852,sushi,False,34.03962,-118.4302,The Backhouse,4.0,846
+853,ramen,False,34.05908,-118.34485,La Brea Ramen Bar,4.0,408
+854,mexican,False,34.039080275774396,-118.240427716488,Yxta Cocina Mexicana,4.0,1068
+855,asianfusion,False,34.0600353,-118.2388394,Ord & Broadway,4.5,198
+856,korean,False,34.0521579914556,-118.2921982,Jang Choong Dong JokBal,4.5,34
+857,coffee,False,34.11055,-118.28726,Cafe Los Feliz,4.0,848
+858,steak,False,34.052719,-118.252817,Nick + Stef's Steakhouse,4.0,595
+859,vietnamese,False,34.05727289327689,-118.307640589179,Thank U Pho,4.0,631
+860,italian,False,34.0257771,-118.2841401,Il Giardino,4.5,45
+861,tradamerican,False,34.06081,-118.26734,Gus's Drive In,3.5,401
+862,thai,False,34.0450459,-118.2769246,Flavors of Thai,4.0,608
+863,korean,False,34.047626,-118.320469,Nam Won Gol,4.5,49
+864,korean,False,34.06401,-118.36707,Genki Grill,4.0,126
+865,mexican,False,34.0426283329725,-118.25329475104799,Casa La Doña,4.5,619
+866,gastropubs,False,34.0748525742151,-118.308902978897,Biergarten,4.0,779
+867,newamerican,False,34.09053,-118.29057,Baroo,4.0,24
+868,desserts,False,34.0636367372311,-118.232733607292,Mae Ting's Coconut Cakes,4.5,92
+869,newamerican,False,34.083902,-118.295245,The Faculty,4.0,265
+870,bbq,False,34.05381,-118.29196,Park's BBQ,4.0,1649
+871,vietnamese,False,34.06012,-118.29128,Simply Pho You,4.0,829
+872,pubs,False,34.148148,-118.430145,The Woodman,4.0,974
+873,burgers,False,33.9537021005473,-118.39677178902399,In-N-Out Burger,4.0,1483
+874,mexican,False,34.1014551,-118.3314412,Calle Tacos,4.0,769
+875,steak,False,34.0522793152641,-118.255719402447,LA Prime,4.0,902
+876,korean,False,34.03458,-118.25762,Halmoni Grandmas Dukbokki,4.5,57
+877,cafeteria,False,34.05135,-118.24405,Tray DTLA,4.5,29
+878,himalayan,False,34.016931,-118.41051000000002,Tara's Himalayan Cuisine,4.0,1079
+879,sushi,False,34.04853129999999,-118.2402898,Hama Sushi,4.0,1501
+880,japanese,False,34.047270000000005,-118.23463999999998,Bao Hiroo,4.5,58
+881,poke,False,34.0685266292215,-118.343602716923,Poke Me,4.5,221
+882,halal,False,34.0614166189248,-118.298914676639,The Halal Guys,3.0,969
+883,pizza,False,34.08292,-118.27289,Wood,4.0,637
+884,chinese,False,34.0448828174397,-118.258630984848,Uncle John’s Cafe,4.0,702
+885,streetvendors,False,34.07145,-118.27267,Dollar Hits,4.0,252
+886,korean,False,34.0524382673451,-118.31089365713899,Mapo Galbi,4.0,300
+887,korean,False,34.0640971043136,-118.29719656931101,Toe Bang Cafe,4.0,827
+888,vegan,False,34.138579198962105,-118.366539,SunCafe Organic,4.5,2295
+889,newamerican,False,34.055025796430805,-118.38336369965,Founders Ale House,4.5,212
+890,desserts,False,34.044895253666894,-118.23864522389401,Little Tokyo Taiyaki,4.5,92
+891,pizza,False,34.034836,-118.231605,Pizzanista!,4.0,1093
+892,sandwiches,False,34.052725,-118.250758,Mendocino Farms,4.5,581
+893,russian,False,34.0999077,-118.3448671,Robert's Russian Cuisine,4.5,220
+894,french,False,34.072140000000005,-118.34368,Cafe Midi,4.0,257
+895,caribbean,False,34.04815,-118.34752,Brownstone LA,4.0,263
+896,sushi,False,34.06068,-118.30621,Izakaya Mi Young,4.5,44
+897,sushi,False,34.0697186,-118.3078831,Sushi Ye,4.5,264
+898,chinese,False,34.09746,-118.36513,Wokcano Asian Restaurant & Bar,4.0,453
+899,seafood,False,34.1014218099367,-118.325985868123,Delphine,3.5,834
+900,newamerican,False,34.082573407069304,-118.374798180805,Taste on Melrose,4.0,2546
+901,breakfast_brunch,False,34.151896,-118.352076,Hungry Crowd,4.5,382
+902,sushi,False,34.0761849,-118.372906,Matsumoto,4.5,101
+903,grocery,False,34.03955,-118.32226,Natraliart Jamaican Restaurant & Market,4.5,155
+904,vegan,False,34.0912104093655,-118.279427202132,Flore Vegan Cuisine,4.0,1159
+905,pizza,False,34.07727,-118.26389,Cosa Buona,4.0,280
+906,mediterranean,False,34.091215000000005,-118.3047549,Paros Chicken,4.0,145
+907,mexican,False,34.0287002,-118.4114403,Madre Oaxacan Restaurant and Mezcaleria,4.0,766
+908,japanese,False,33.98642,-118.27357,Casa Noodle Teriyaki,4.5,118
+909,italian,False,34.1018622167479,-118.31249355110201,I Panini di Ambra,4.5,356
+910,indpak,False,34.091245,-118.32880667,Indimex Eats,4.0,264
+911,korean,False,34.06204,-118.3133,Boolieya,4.5,37
+912,mexican,False,34.099443,-118.3290012,Trejo's Cantina - Hollywood,3.5,525
+913,chinese,False,34.07817,-118.25676,Combo A,4.5,227
+914,newamerican,False,34.07172,-118.36485,Bacari W 3rd,4.5,253
+915,chicken_wings,False,34.05239,-118.3049,Wings N Stuff,4.5,44
+916,italian,False,34.043136596679695,-118.43065643310499,Pastina,4.0,250
+917,italian,False,34.11092,-118.28721000000002,Little Dom's,3.5,1530
+918,lounges,False,34.0501911926812,-118.25697010649401,"The Rooftop at The Standard, Downtown LA",3.5,1545
+919,indpak,False,34.0621767,-118.3481449,India's Tandoori,4.0,1254
+920,lounges,False,34.12519,-118.26466,The Griffin,3.5,977
+921,sandwiches,False,34.0759416790591,-118.25410000852301,Trencher,4.0,317
+922,italian,False,34.083621,-118.331184,Marino Restaurant,4.5,350
+923,seafood,False,34.051759999999994,-118.36958,Penguin Fish & Chips,4.0,155
+924,korean,False,34.055229,-118.308577,Pao Jao Dumpling House,4.0,118
+925,chinese,False,34.05828,-118.36252,Fortune House Chinese Cuisine,4.0,236
+926,seafood,False,33.9617584,-118.4207342,Sustainabowl,5.0,272
+927,seafood,False,34.0509763035137,-118.24922138413099,The Oyster Gourmet,4.0,233
+928,teppanyaki,False,34.07791683,-118.26352267,Yami Yaki,4.5,72
+929,italian,False,34.08323,-118.34724,Frankie's,4.0,412
+930,gastropubs,False,34.10532,-118.27257,Hyperion Public,4.0,847
+931,noodles,False,34.0255178,-118.2775239,Northern Cafe,3.5,205
+932,bakeries,False,34.1677,-118.34655,Porto's Bakery & Cafe,4.5,9003
+933,mexican,False,34.09105,-118.30819,El Comal,4.5,44
+934,mexican,False,34.0301138864681,-118.40274559231301,Señorita's Tamales,4.5,34
+935,mexican,False,34.053236854724105,-118.257029056549,Border Grill Downtown LA,4.0,1051
+936,italian,False,34.0484549,-118.2479646,Orsa & Winston,4.0,441
+937,korean,False,34.05245,-118.3071,Miari Noodle House,4.0,118
+938,breakfast_brunch,False,34.08222,-118.30948,LA Breakfast Club,5.0,1
+939,coffee,False,34.045188,-118.249536,Wake and Late,4.5,403
+940,italian,False,34.08233,-118.27219,La Pergoletta on Sunset,4.5,79
+941,mideastern,False,34.14659,-118.25335,Raffi's Place,4.5,4280
+942,asianfusion,False,34.086859999999994,-118.29152,Hana Kitchen,4.5,52
+943,japanese,False,34.0311016,-118.400832,Sushi Zo,4.0,734
+944,sandwiches,False,34.0401309895633,-118.34078472107599,Simply D'Licious,3.5,258
+945,gluten_free,False,34.0529343180276,-118.257182712459,Asian Box,4.0,162
+946,filipino,False,34.0853518,-118.2745658,Spoon & Pork,4.5,117
+947,bars,False,34.044846,-118.249564,Cole's French Dip,3.5,2184
+948,korean,False,34.0560571,-118.2897392,Corner Place,4.0,909
+949,sandwiches,False,34.07245,-118.3705,Simple Things 3rd Street,4.0,822
+950,italian,False,34.0351,-118.25332,Rossoblu,4.0,479
+951,italian,False,34.104808807373,-118.291404724121,Palermo Italian Restaurant,4.0,1474
+952,newamerican,False,34.08847,-118.26875,Botanica Restaurant & Market,4.0,245
+953,mexican,False,34.0758743286133,-118.349220275879,El Coyote Mexican Cafe,3.5,1665
+954,pubs,False,34.09918,-118.25887,Red Lion Tavern,4.0,1595
+955,mediterranean,False,34.0834751,-118.3761741,Fig & Olive - Melrose Place,4.0,2427
+956,mediterranean,False,34.09846,-118.30019,Zankou Chicken - Hollywood,3.5,1011
+957,korean,False,34.052836842,-118.29622709799999,SongDo Seafood,5.0,5
+958,coffee,False,34.1053749,-118.3188399,Bourgeois Pig,3.5,853
+959,tradamerican,False,34.0906258311211,-118.345578953138,Good Burger,3.0,61
+960,seafood,False,34.009225119436806,-118.338700226171,The Kickin' Crab - Los Angeles,3.0,249
+961,seafood,False,34.06107,-118.29325,Baja's Grill,4.0,27
+962,mexican,False,34.0758865,-118.350284,Petty Cash Taqueria & Bar,3.5,861
+963,breakfast_brunch,False,33.978852,-118.40565,Hash,4.0,622
+964,bbq,False,34.1018315370452,-118.31844822870701,Ay-Do-No Korean BBQ,4.0,468
+965,sushi,False,34.0637422,-118.3671403,Coral Fish Poke Shop,4.5,185
+966,cocktailbars,False,34.040358000000005,-118.2634197,barcito,4.0,312
+967,izakaya,False,34.0453967234337,-118.238328695297,Honda Ya Izakaya,3.5,1410
+968,korean,False,34.052144,-118.310428,Chosun Galbee,4.0,1613
+969,halal,False,34.04654,-118.25596000000002,The Halal Guys,4.0,561
+970,korean,False,34.066959999999995,-118.29206,Go Pocha,4.0,262
+971,mexican,False,34.0720873,-118.367282,El Carmen,4.0,948
+972,mediterranean,False,34.072591,-118.370769,Hummus Republic,4.5,160
+973,mexican,False,34.095764200000005,-118.2284241,Restaurante Tierra Caliente,4.5,257
+974,mediterranean,False,34.02948,-118.38901,Almaza,4.0,537
+975,steak,False,34.101802,-118.335394,Musso & Frank Grill,4.0,1540
+976,newamerican,False,34.1452614254147,-118.33853200078,Santuari Restaurant,4.5,125
+977,italian,False,34.108509999999995,-118.26806,Blair's Restaurant,4.0,498
+978,ramen,False,34.058440000000004,-118.3087,Iki Ramen,4.5,202
+979,ramen,False,34.0498759087342,-118.242309727081,Orochon Ramen,3.5,3010
+980,wine_bars,False,34.082353999999995,-118.27228,Same Same,4.0,223
+981,ramen,False,34.04098,-118.25696,DTLA RAMEN,4.0,535
+982,bars,False,33.97607616706,-118.41696158919399,SOL Mexican Cocina,4.0,1144
+983,steak,False,34.0553,-118.26596,Pacific Dining Car,3.5,1243
+984,newamerican,False,34.0861279836519,-118.36172705072599,Fat Dog,4.0,562
+985,foodstands,False,34.0458781631081,-118.344727903604,Churros La Paloma,5.0,31
+986,mideastern,False,34.10203,-118.32191,Al Wazir Chicken,4.0,550
+987,chickenshop,False,33.95967,-118.30991000000002,Charlie's Famous Fried Chicken,4.5,51
+988,foodtrucks,False,34.0340039972124,-118.249286006082,Mariscos Jalisco,4.5,113
+989,korean,False,34.06193,-118.3107,Star Night,4.5,102
+990,vegan,False,34.0522342,-118.24368490000002,Todo Verde,5.0,43
+991,japanese,False,34.04448,-118.23824,Tsurumaru Udon Honpo,4.0,529
+992,ethiopian,False,34.0173639,-118.27831439206498,Azla,4.5,376
+993,streetvendors,False,34.055450439453104,-118.24723815917999,Dedicated Danny's Bacon Wrapped Hotdogs,5.0,59
+994,bbq,False,34.13742,-118.1954,Kogi BBQ Truck - Verde,4.0,606
+995,foodtrucks,False,33.9891021960076,-118.26535470531601,Tacos Los Poblanos,4.5,199
+996,italian,False,34.07339,-118.3809,Locanda Veneta,4.5,479
+997,italian,False,34.051017473398,-118.257885974904,DRAGO Centro,4.0,1531
+998,korean,False,34.05239,-118.30447,Yupdduk Olympic,4.0,319
+999,soulfood,False,34.05082,-118.36183,Charlie's Fish & Chips,4.0,95
+1000,southern,False,34.061516999999995,-118.239716,Howlin' Ray's,4.5,5624
+1001,tapasmallplates,False,34.10052,-118.32927,Running Goose,4.5,966
+1002,french,False,34.06415,-118.34367,République,4.0,5132
+1003,dimsum,False,34.07577,-118.36982,Bao Dim Sum House,4.0,2775
+1004,taiwanese,False,34.0581675839108,-118.417310318771,Din Tai Fung,4.0,1123
+1005,gastropubs,False,34.12384,-118.26868,The Morrison,4.5,4203
+1006,newamerican,False,34.07586,-118.35247,Mixtape,4.0,95
+1007,newamerican,False,34.048111,-118.258345,JOEY DTLA,4.5,339
+1008,japanese,False,34.050023,-118.239935,Marugame Monzo,4.5,3535
+1009,ramen,False,34.0573614429986,-118.30676974470501,Slurpin' Ramen Bar,4.5,4041
+1010,cafes,False,34.060944799999994,-118.3446759,Met Her At A Bar,4.5,959
+1011,lounges,False,34.048970000000004,-118.2514,Perch,4.0,7268
+1012,cafes,False,34.05218,-118.28737,Coffee MCO,5.0,76
+1013,italian,False,34.03402,-118.22919,Bestia,4.5,5849
+1014,ramen,False,34.050080909440005,-118.24018045129999,Daikokuya Little Tokyo,4.0,8317
+1015,ramen,False,33.9583942,-118.3941804,The Ramen Joint,4.5,1176
+1016,korean,False,34.0628602582049,-118.29757030125799,Hangari Bajirak Kalguksu,4.5,1555
+1017,sushi,False,34.06372,-118.36446,KazuNori: The Original Hand Roll Bar,5.0,8
+1018,french,False,34.051909,-118.3843212,A Food Affair,4.5,1241
+1019,italian,False,34.0469300995766,-118.256601457672,Bottega Louie,4.0,16578
+1020,hotdog,False,34.0456047058105,-118.23606109619101,Wurstküche,4.0,8184
+1021,italian,False,34.050039,-118.248552,Maccheroni Republic,4.0,2761
+1022,italian,False,34.07117,-118.37702,Emilia,5.0,49
+1023,southern,False,34.0498186,-118.3596124,My Two Cents,4.5,597
+1024,hawaiian,False,34.004425692649605,-118.42160705539699,Rutt's Hawaiian Cafe,4.0,1650
+1025,mexican,False,34.052409999999995,-118.30071,Guelaguetza Restaurante,4.0,2117
+1026,indonesian,False,34.0595543956397,-118.420109087905,RockSugar Southeast Asian Kitchen,4.0,2450
+1027,brazilian,False,34.04665,-118.25616,H&H Brazilian Steakhouse,4.5,197
+1028,vegan,False,34.077123,-118.25871399999998,Sage Vegan Bistro - Echo Park,4.0,2149
+1029,hotdog,False,34.06577,-118.30847,Myungrang Hot Dog-California Market LA,4.5,682
+1030,bbq,False,34.0665313022035,-118.254266053011,The Park's Finest,4.0,1995
+1031,soup,False,34.0664685489966,-118.30938392450199,CALI PHO NIA,5.0,7
+1032,delis,False,34.060099,-118.238083,Little Jewel of New Orleans,4.0,1653
+1033,sushi,False,34.08319167,-118.273245,いざかや おせん- IZAKAYA OSEN,4.5,632
+1034,hotdog,False,34.0282923762355,-118.27520824470501,Dirt Dog,4.5,1860
+1035,halal,False,34.162558000000004,-118.3730708,Urban Skillet,4.0,757
+1036,korean,False,34.057544,-118.305579846558,Magal BBQ,4.5,1598
+1037,newamerican,False,34.077585,-118.259599,Masa of Echo Park,4.0,4002
+1038,greek,False,33.9524703946447,-118.38524200185199,Aliki's Greek Taverna,4.5,1015
+1039,mideastern,False,34.041509999999995,-118.23261,Bavel,4.5,1064
+1040,foodstands,False,34.0725774690603,-118.214694509262,Corn Man,4.5,899
+1041,tapasmallplates,False,34.0941,-118.32734,Barkada,4.5,280
+1042,southern,False,34.048107147216804,-118.326278686523,Gus's World Famous Fried Chicken,4.0,1361
+1043,korean,False,34.04847,-118.30867,Road To Seoul,4.0,3650
+1044,newamerican,False,34.06372,-118.36446,HiHo Cheeseburger,5.0,2
+1045,sushi,False,34.0476390576719,-118.247747561303,KazuNori  | The Original Hand Roll Bar,4.5,2580
+1046,southern,False,34.0736424077856,-118.376774467984,Yardbird Southern Table & Bar,4.5,937
+1047,korean,False,34.0639032,-118.3061281,Hae Jang Chon Korean BBQ Restaurant,4.0,4765
+1048,seafood,False,34.0833651,-118.3262166,Mario's Peruvian & Seafood,4.0,2260
+1049,mexican,False,34.0702395145121,-118.250448424643,Guisados,4.5,2005
+1050,taiwanese,False,34.0614,-118.23951,Lao Tao,4.0,405
+1051,cocktailbars,False,34.046306200000004,-118.23425,Nightshade,4.5,326
+1052,ramen,False,34.0484525,-118.23909209999998,Shin-Sen-Gumi Hakata Ramen - Little Tokyo,4.0,2678
+1053,ramen,False,34.083710700000005,-118.3446759,Tatsu Ramen,4.0,3339
+1054,sandwiches,False,34.0945448886537,-118.338174904238,Fat Sal's Deli - Hollywood,4.0,1997
+1055,bars,False,34.101795,-118.3323928,Te'Kila,4.0,929
+1056,foodstands,False,34.0829620177,-118.217007706,Ave 26 Taco Stand,4.5,1299
+1057,burgers,False,34.06469,-118.30876,Monty's Good Burger,4.5,1577
+1058,movietheaters,False,34.04809,-118.25894333,Alamo Drafthouse Cinema Downtown Los Angeles,4.5,110
+1059,cocktailbars,False,34.04168,-118.26308,Prank,4.0,726
+1060,mexican,False,34.048120000000004,-118.21147,Guisados,4.5,2403
+1061,chickenshop,False,34.041836309712,-118.259046916196,Birdies,4.0,1735
+1062,chicken_wings,False,34.067454299999994,-118.3096191,Gol Tong Chicken,4.5,551
+1063,mexican,False,34.046530597539395,-118.250679851854,Guisados DTLA,4.5,1702
+1064,newamerican,False,34.0690575,-118.226105,Majordōmo,4.0,833
+1065,falafel,False,34.1169649464573,-118.262093149437,Dune,4.5,668
+1066,breakfast_brunch,False,34.04067,-118.2500946,Poppy + Rose,4.0,2210
+1067,tradamerican,False,34.10268,-118.24345,Wax Paper,4.5,289
+1068,vegan,False,34.08279,-118.32404,Cafe Gratitude - Larchmont,4.0,2074
+1069,mexican,False,34.0715151,-118.3622707,Mercado Los Angeles,4.0,1105
+1070,korean,False,34.0497189,-118.30918490000002,HaSunSaeng - MasterHA,4.5,302
+1071,vegan,False,34.083420000000004,-118.37011,Crossroads,4.0,1942
+1072,sushi,False,34.0470000646326,-118.238502456345,Sushi Gen,4.5,3703
+1073,breakfast_brunch,False,34.072893,-118.37179,Joan's on Third,4.0,2249
+1074,cocktailbars,False,34.044804,-118.25665,Broken Shaker Los Angeles,4.0,410
+1075,tacos,False,34.0416441,-118.2522657,Sonoratown,4.5,720
+1076,mediterranean,False,34.089290000000005,-118.27693,Mh Zh,4.5,382
+1077,vegan,False,34.10768,-118.26677,Little Pine,4.5,828
+1078,coffee,False,34.084366,-118.28663600000002,Sqirl,4.0,1947
+1079,pizza,False,34.083252237985704,-118.33880120176501,Pizzeria Mozza,4.0,4163
+1080,korean,False,34.0620862485445,-118.30265844914301,BCD Tofu House,4.0,3978
+1081,cocktailbars,False,34.05049,-118.24406,Redbird,4.0,1346
+1082,asianfusion,False,34.061477000000004,-118.299902,Gogobop Korean Rice Bar,4.5,275
+1083,french,False,34.0837537901616,-118.32404690416901,Le Petit Marché,4.0,162
+1084,newamerican,False,34.0724723090913,-118.35937740052499,Marmalade Cafe,4.0,2143
+1085,bars,False,34.101913,-118.336041,Hot Motha Clucker,4.0,18
+1086,mexican,False,33.95998,-118.41685,Benny's Tacos & Chicken Rotisserie,4.5,1921
+1087,ramen,False,34.0837585,-118.352546,E.A.K. Ramen,4.0,338
+1088,thai,False,34.1018849,-118.30513,Ruen Pair,4.0,1694
+1089,seafood,False,34.0490371292754,-118.25469093254101,Water Grill - Los Angeles,4.0,1994
+1090,newamerican,False,34.04608,-118.23489,Manuela,4.0,855
+1091,coffee,False,34.041974,-118.235426,Urth Caffé- Downtown LA,4.0,5108
+1092,coffee,False,34.08321,-118.3464,Fratelli Cafe,4.5,1052
+1093,pizza,False,34.099059999999994,-118.33728,L'Antica Pizzeria Da Michele,4.5,314
+1094,korean,False,34.064020224511296,-118.297687050455,Quarters Korean BBQ,4.0,2560
+1095,thai,False,34.0869930418948,-118.275715286631,Night + Market Song,4.0,986
+1096,breakfast_brunch,False,34.057596999999994,-118.29774679999998,H Cafe,4.5,345
+1097,bakeries,False,34.106215,-118.28776,Alcove Café & Bakery,4.0,4186
+1098,mexican,False,34.035217,-118.25591,Mex Perú Gipsy,5.0,758
+1099,newamerican,False,34.06389,-118.36596000000002,The Roof on Wilshire,3.5,1376
+1100,mexican,False,34.10743,-118.25441,Salazar,3.5,903
+1101,chickenshop,False,34.057520000000004,-118.30715,Twozone Chicken - 8th,4.5,11
+1102,indpak,False,34.095583000000005,-118.28517,India's Restaurant,4.5,2206
+1103,newamerican,False,34.0518700505706,-118.25205364100401,Blue Cow Kitchen & Bar,4.0,1269
+1104,foodstands,False,34.023366476709796,-118.330661728978,Ronnie's Kickin Chicken,5.0,6
+1105,mediterranean,False,34.0489812,-118.2589574,10e,4.0,614
+1106,korean,False,34.0615866318416,-118.30324183306601,Bulgogi Hut,4.5,2043
+1107,mexican,False,34.04714,-118.21799,Birrieria Don Boni,4.5,415
+1108,mexican,False,33.9927987,-118.4227098,Casa Sanchez,4.0,1205
+1109,chickenshop,False,34.0833851,-118.309905,The Kluckin Chicken,4.0,21
+1110,korean,False,34.05944,-118.28933,OB Bear,4.0,1023
+1111,japanese,False,34.048068183386505,-118.257884198153,HATCH Yakitori + Bar,4.5,354
+1112,newamerican,False,34.0833651,-118.3242882,Kali Restaurant,4.5,492
+1113,bars,False,34.050118910643604,-118.241461110451,Izakaya Fu-ga,4.0,898
+1114,filipino,False,34.061495967020896,-118.23956849001199,LASA,4.0,436
+1115,tacos,False,34.0343720116648,-118.232130253186,Guerrilla Tacos,4.0,635
+1116,japanese,False,34.0499,-118.2397,Suehiro Cafe,4.0,1383
+1117,seafood,False,34.0269938,-118.408793,Lobster & Beer,4.0,627
+1118,newamerican,False,34.046195000000004,-118.261698,Faith & Flower,4.0,2395
+1119,thai,False,34.06876,-118.30948,Hae Ha Heng Thai Bistro,4.5,1110
+1120,tradamerican,False,34.06333,-118.30072,Cassell's Hamburgers,4.0,1487
+1121,mexican,False,34.0596284,-118.3451919,Candela,4.0,639
+1122,korean,False,34.07642,-118.30557,Sulga Jinju Gom Tang House of Beef Soup,5.0,191
+1123,bbq,False,34.067409999999995,-118.30873,Song Hak Korean BBQ 松鹤韩国烤肉烤肠,4.5,173
+1124,breakfast_brunch,False,34.064136608941105,-118.283886344366,Crispy School,5.0,83
+1125,tex-mex,False,34.09979000000001,-118.29021000000002,HomeState,4.5,959
+1126,italian,False,34.075340000000004,-118.32399,Vernetti,4.0,302
+1127,chicken_wings,False,34.063309999999994,-118.29501,Michin Dak,4.5,214
+1128,tradamerican,False,34.0463748483148,-118.25087074477501,FryMadness,4.5,294
+1129,french,False,34.0481,-118.24846,Le Petit Paris,4.0,1113
+1130,italian,False,34.06372,-118.36446,Uovo- Mid-Wilshire,5.0,8
+1131,thai,False,34.0985027788903,-118.306131251156,Pa Ord Noodle,4.0,1400
+1132,german,False,34.07757,-118.34438,Wirtshaus,4.0,831
+1133,seafood,False,34.05131,-118.27825,Shabuya,4.0,385
+1134,korean,False,34.057539500000004,-118.3072592,Honey Night,4.5,90
+1135,thai,False,34.0836965133512,-118.348536419051,Summer Buffalo,4.5,416
+1136,diners,False,33.97795,-118.37064,Pann's Restaurant,4.0,1171
+1137,korean,False,34.05263,-118.28737,YTB Korean Restaurant,4.5,16
+1138,desserts,False,34.07134,-118.35687,The Cheesecake Factory,3.0,1397
+1139,italian,False,34.07642,-118.34909,Angelini Osteria,4.5,1725
+1140,breweries,False,34.055713,-118.23663,Imperial Western Beer Company,4.0,244
+1141,foodtrucks,False,34.046438,-118.345718,Leo's Tacos Truck,4.5,1745
+1142,newamerican,False,34.0965954,-118.3698476,The Sunset Trocadero Lounge,4.0,266
+1143,polish,False,34.125401000000004,-118.231779,Polka Polish Restaurant,4.0,774
+1144,tacos,False,34.02531,-118.32445,Papi Tacos & Churros,4.5,130
+1145,korean,False,34.06125,-118.28738,Jeonju Hyundaiok,4.5,37
+1146,burgers,False,34.020397,-118.422313,Tripp Burgers,4.5,14
+1147,latin,False,34.0352819442964,-118.25306619141199,DAMA,4.5,340
+1148,mediterranean,False,34.0482095,-118.2398789,Spitz - Little Tokyo,4.0,1594
+1149,vegetarian,False,34.077812,-118.264616,Elf Café,4.5,739
+1150,chinese,False,34.06004,-118.29062,Wok Bar,4.5,9
+1151,breakfast_brunch,False,34.0474472045898,-118.346229553223,Roscoe's House of Chicken & Waffles,4.0,2751
+1152,ramen,False,34.07493,-118.3095,Saikai Ramen Bar,5.0,35
+1153,newamerican,False,34.07638,-118.3696,Nic's on Beverly,4.5,179
+1154,burgers,False,34.08061,-118.36164,VOWburger,4.5,45
+1155,newamerican,False,34.0762249,-118.3641978,Market Provisions,4.0,374
+1156,korean,False,34.05786,-118.30274,Oo-Kook Korean BBQ,4.0,1796
+1157,italian,False,34.0650500417879,-118.246493308503,Eastside Market Italian Deli,4.5,993
+1158,vietnamese,False,34.066871500000005,-118.3615645,Pho Saigon Pearl,4.0,615
+1159,chicken_wings,False,33.95968,-118.31648,Wings & Pot,4.0,225
+1160,korean,False,34.04777,-118.25684,Koja Kitchen DTLA,4.5,46
+1161,seafood,False,34.07649,-118.30151,Alaska Seafood,4.5,127
+1162,tradamerican,False,34.04489,-118.2641735,Shaquille’s,3.5,553
+1163,mediterranean,False,34.0249037,-118.2845961,CAVA,4.0,177
+1164,korean,False,34.069114899999995,-118.3073944,Zzamong,4.0,852
+1165,seafood,False,34.063452000000005,-118.299046,EMC Seafood & Raw Bar,4.0,3155
+1166,burgers,False,34.083851,-118.34803259999998,MJ's Grill,4.5,51
+1167,breweries,False,34.0479563134481,-118.256189231247,Karl Strauss Brewing Company,4.5,654
+1168,beerbar,False,34.06139,-118.3007,The 8th Notch,4.5,98
+1169,chinese,False,34.061820000000004,-118.23735,Won Kok Restaurant,3.5,1189
+1170,cheesesteaks,False,34.095845000000004,-118.287102,Boo's Philly Cheesesteaks - Silverlake,4.5,1056
+1171,cocktailbars,False,34.0637,-118.30822,Here's Looking At You,4.0,461
+1172,italian,False,34.0711906,-118.3599417,Andre's Italian Restaurant,4.0,1164
+1173,bubbletea,False,34.072952859299896,-118.375559776552,Berlins,4.5,916
+1174,mexican,False,34.0807951106153,-118.386972025037,Gracias Madre,4.0,3977
+1175,coffee,False,34.08358629999999,-118.3623821,Crumbs & Whiskers - Kitten & Cat Cafe,4.5,427
+1176,sandwiches,False,34.0995400448557,-118.32916957081899,Banh Oui,4.5,151
+1177,bars,False,34.0449339896765,-118.265804750686,Yard House,3.5,2593
+1178,chinese,False,34.05239,-118.30342,Young King,4.0,540
+1179,newamerican,False,34.0771299,-118.38068,GRANVILLE,4.5,1150
+1180,cafes,False,34.113971015122296,-118.307670183713,The Trails,4.0,584
+1181,breweries,False,34.06469,-118.34368,6th & La Brea Brewery & Restaurant,4.0,299
+1182,izakaya,False,34.0617703930376,-118.311040486404,Shuto Izakaya,4.5,64
+1183,seafood,False,34.06355,-118.28741,Oh My Crab,4.0,16
+1184,coffee,False,33.957594,-118.39453600000002,The Coffee Company,4.0,1441
+1185,ethiopian,False,34.056709999999995,-118.36483,Meals by Genet,4.5,727
+1186,butcher,False,34.09764000000001,-118.3334,Gwen Butcher Shop,4.0,528
+1187,asianfusion,False,34.099894275896695,-118.33059072457199,TAO Asian Bistro,4.0,899
+1188,indpak,False,34.083659999999995,-118.34327,Anarkali Indian Restaurant,4.0,2530
+1189,newamerican,False,34.102131,-118.33628799999998,Beetle House LA,3.5,1829
+1190,coffee,False,34.060212,-118.291328,Alchemist Coffee Project,4.5,1059
+1191,modern_european,False,34.04704,-118.25593,V,4.5,37
+1192,japanese,False,34.047090000000004,-118.24865,Yuko Kitchen,4.5,286
+1193,breakfast_brunch,False,34.04676,-118.25099,Blu Jam Cafe,4.0,923
+1194,hotdog,False,34.0156233070285,-118.334755915362,Earle's On Crenshaw,4.5,342
+1195,cannabisdispensaries,False,34.092659999999995,-118.34442,Lowell Farms: A Cannabis Cafe,4.5,6
+1196,newamerican,False,34.0448754975184,-118.232614428836,ediBOL,4.5,552
+1197,ramen,False,34.0641366545821,-118.309460922754,Tengoku Ramen Bar,4.5,517
+1198,mideastern,False,34.14659,-118.25335,Raffi's Place,4.5,4283
+1199,ramen,False,34.04867,-118.25753,JINYA Ramen Bar,4.0,326
+1200,mexican,False,34.04675,-118.28247,King Taco,3.5,1004
+1201,sushi,False,34.0761600290924,-118.305407725275,Noshi Sushi,4.0,1342
+1202,breakfast_brunch,False,34.151896,-118.352076,Hungry Crowd,4.5,381
+1203,salad,False,33.99936,-118.41891,Green Apple Cafe,5.0,4
+1204,restaurants,False,34.03396,-118.22965,Bon Temps,4.5,58
+1205,newamerican,False,34.076269,-118.383588,The Henry,4.0,648
+1206,breakfast_brunch,False,34.02876,-118.27517,Jacks N Joe,4.0,2010
+1207,chicken_wings,False,34.0905951,-118.3255861,Jesse Boy,4.5,325
+1208,korean,False,34.062795820030395,-118.297739280426,Hong Kong Ban Jum 0410 / Paik's Noodle,4.5,460
+1209,french,False,34.084159,-118.338194,Petit Trois,4.0,808
+1210,korean,False,34.056163,-118.309877,Buil Samgye Tang,4.5,416
+1211,cocktailbars,False,34.0479912921288,-118.258466860049,District,4.0,493
+1212,newamerican,False,34.08251,-118.32332,Lemonade,4.0,549
+1213,korean,False,34.0638387855043,-118.29682785417299,Jokbal 1030,4.5,107
+1214,sushi,False,33.957713033813,-118.395974141022,Kanpai Japanese Sushi Bar & Grill 2,4.0,617
+1215,mexican,False,34.10596,-118.27281,Mi Corazon,4.0,195
+1216,sandwiches,False,34.083594899999994,-118.3420061,Banh Oui,5.0,4
+1217,newamerican,False,34.10722,-118.26418,Small Town,4.0,54
+1218,mexican,False,34.0938088,-118.3268092,La Numero Uno,4.5,414
+1219,italian,False,34.06642,-118.37659,The Stinking Rose,4.0,4233
+1220,bars,False,34.0615438794415,-118.30814156681299,Terra Cotta,3.5,410
+1221,diners,False,34.046219,-118.248992,Nickel Diner,4.0,2392
+1222,breakfast_brunch,False,34.062127000000004,-118.311328,Egg Tuck,4.0,194
+1223,chinese,False,34.0448828174397,-118.258630984848,Uncle John’s Cafe,4.0,704
+1224,soulfood,False,34.032779999999995,-118.35994,Alta West Adams,4.0,235
+1225,korean,False,34.0575551,-118.3061617,Plato,4.0,420
+1226,breakfast_brunch,False,34.0633975,-118.3759994,Prospect Gourmand,4.5,726
+1227,bakeries,False,34.1677,-118.34655,Porto's Bakery & Cafe,4.5,9011
+1228,tradamerican,False,34.0464117322053,-118.262845804944,Original Pantry Cafe,3.5,2926
+1229,foodtrucks,False,34.0090951,-118.2566828,Super Tortas DF,4.5,150
+1230,sushi,False,34.061407,-118.309408,Sushi Ippo,4.0,1307
+1231,burgers,False,33.9537021005473,-118.39677178902399,In-N-Out Burger,4.0,1484
+1232,newamerican,False,34.0996099751367,-118.331350050867,Mama Shelter Rooftop Bar,3.5,385
+1233,tapasmallplates,False,34.1452280992166,-118.369494542328,The Front Yard,4.0,1962
+1234,vietnamese,False,34.1045859,-118.330197,It's Pho hollywood,4.0,841
+1235,ramen,False,34.07755,-118.37695,Kai Ramen,4.5,177
+1236,mexican,False,34.056529,-118.344882,Trejos Tacos - La Brea,3.5,1596
+1237,newamerican,False,34.082573407069304,-118.374798180805,Taste on Melrose,4.0,2548
+1238,venezuelan,False,34.171879,-118.38173700000002,Coffee For Breakfast,4.5,358
+1239,foodtrucks,False,34.0986671447754,-118.30989074707001,Leo's Tacos Truck,4.0,273
+1240,pizza,False,34.08292,-118.27289,Wood,4.0,636
+1241,newamerican,False,34.0869539412233,-118.37675299821699,Barton G - Los Angeles,3.5,2274
+1242,sushi,False,34.10226,-118.32482,Totoyama Sushi & Ramen,4.0,198
+1243,seafood,False,34.04712,-118.25708,Le Grand,4.5,156
+1244,bakeries,False,34.150397561620004,-118.25546929797,Porto's Bakery & Cafe,4.5,8506
+1245,seafood,False,34.0445128974681,-118.265206574205,Rock'N Fish,3.5,1179
+1246,coffee,False,34.147846,-118.431948,The Joint Eatery,4.5,180
+1247,burgers,False,34.0444029,-118.2560307,Shake Shack,3.5,326
+1248,diners,False,34.089290000000005,-118.27693,Millie's Cafe,4.0,982
+1249,sushi,False,34.0487781,-118.2406613,Kura Revolving Sushi Bar,3.5,1316
+1250,korean,False,34.0622606,-118.2975594,JJUKKU JJUKKU BBQ,4.0,858
+1251,breakfast_brunch,False,34.04635,-118.2511,Gizmo's Cereal Bar,5.0,120
+1252,newamerican,False,34.1442843,-118.4090044,The Six Chow House,4.5,1758
+1253,breakfast_brunch,False,33.9599,-118.27421,Roscoe's House of Chicken & Waffles,4.0,524
+1254,italian,False,34.104808807373,-118.291404724121,Palermo Italian Restaurant,4.0,1473
+1255,dimsum,False,34.0655097961426,-118.236274719238,Golden Dragon Restaurant,3.5,704
+1256,korean,False,34.0631573362865,-118.302618999411,Brothers Bbq,4.0,467
+1257,bakeries,False,34.0603059013255,-118.420859099482,Clementine,4.0,1013
+1258,indpak,False,34.072291,-118.368852,Electric Karma,4.0,794
+1259,desserts,False,34.0335465,-118.2405124,S'moreology,5.0,44
+1260,salad,False,34.098178000000004,-118.322718,sweetgreen,4.0,257
+1261,newamerican,False,34.095620000000004,-118.29534,Five Leaves LA,4.0,108
+1262,italian,False,34.0351,-118.25332,Rossoblu,4.0,480
+1263,bakeries,False,33.9978245979172,-118.42031159448,Lodge Bread,4.0,564
+1264,mexican,False,34.07869,-118.21471,El Camaron Pelado,4.0,233
+1265,indpak,False,34.0256549,-118.294352,Himalayan House,4.0,298
+1266,pizza,False,34.06188,-118.34278,Apollonia's Pizzeria,4.0,390
+1267,mexican,False,34.06198,-118.3456,LA Chankla,4.5,6
+1268,cafes,False,34.0522237,-118.37115,Green Table Cafe,4.5,435
+1269,pizza,False,34.07405,-118.21074,The Heights Deli & Bottle Shop,4.5,459
+1270,asianfusion,False,34.0600353,-118.2388394,Ord & Broadway,4.5,199
+1271,bakeries,False,34.10151,-118.30238,Friends & Family,4.0,169
+1272,newamerican,False,34.0443026525531,-118.26468279268299,Tom's Urban - LA Live,3.5,2599
+1273,chickenshop,False,34.16468,-118.37409,Dave's Hot Chicken,5.0,5
+1274,breakfast_brunch,False,34.0532,-118.37709,Nick's Coffee Shop,4.0,803
+1275,seafood,False,34.06621,-118.23803999999998,Full House Seafood Restaurant,3.5,679
+1276,korean,False,34.049094735028504,-118.240457989559,Korean Kitchen Hibachi Barbeque,4.0,323
+1277,desserts,False,34.1431,-118.3964,Beignet Box,5.0,3
+1278,steak,False,34.0446963342719,-118.26536453203,Fleming's Prime Steakhouse & Wine Bar,4.0,1530
+1279,steak,False,34.0522793152641,-118.255719402447,LA Prime,4.0,903
+1280,colombian,False,34.05124,-118.27332,Sabor Colombiano,3.5,331
+1281,bars,False,34.083728207846,-118.35099608421301,The Village Idiot,4.0,1224
+1282,latin,False,34.03904,-118.30941,Sabor Nicaragüense Restaurant,4.5,62
+1283,panasian,False,34.0248259705828,-118.411131312985,Mee and Greet,4.0,265
+1284,tradamerican,False,34.158376000000004,-118.36992,Idle Hour,4.0,973
+1285,tex-mex,False,34.023008000000004,-118.39482,Amacita,4.0,42
+1286,breakfast_brunch,False,34.076440000000005,-118.34539,Lulu's Cafe,4.5,147
+1287,japanese,False,34.0634850866332,-118.29276982694901,Tokyo Hamburg,4.0,398
+1288,gastropubs,False,34.03602,-118.23305,Little Bear,3.5,765
+1289,burgers,False,34.1043020720697,-118.29158127307899,Honeybee Burger,4.0,113
+1290,breakfast_brunch,False,34.097807,-118.362255,The Griddle Cafe,4.0,5740
+1291,italian,False,34.1074686,-118.2872751,Farfalla Trattoria,4.0,628
+1292,wine_bars,False,34.0448687,-118.2496209,Mignon,4.0,444
+1293,breakfast_brunch,False,34.0638,-118.30598,Souffles,4.0,239
+1294,cocktailbars,False,34.08052,-118.26991,Freedman's,4.0,184
+1295,mexican,False,34.02141,-118.21404,Mariscos 4 Vientos,4.0,605
+1296,breakfast_brunch,False,34.083817,-118.273853,Local,4.0,809
+1297,ramen,False,34.058440000000004,-118.3087,Iki Ramen,4.5,204
+1298,ramen,False,34.045277,-118.238494,Hana Ichimonme,4.0,442
+1299,newamerican,False,34.0836424532327,-118.36287302767201,The Hart and the Hunter,3.5,810
+1300,korean,False,34.06309,-118.29753999999998,Mountain Cafe,4.0,188
+1301,newamerican,False,34.092132799999995,-118.3805803,"The Butcher, The Baker, The Cappuccino Maker",4.0,1427
+1302,mexican,False,34.0571939,-118.2384039,La Golondrina Mexican Cafe,3.5,928
+1303,thai,False,34.09846,-118.30487,Siam Sunset,4.0,261
+1304,steak,False,34.0553,-118.26596,Pacific Dining Car,3.5,1242
+1305,newamerican,False,34.083902,-118.295245,The Faculty,4.0,266
+1306,mexican,False,34.09769,-118.35205,El Compadre,3.5,1586
+1307,italian,False,34.1184299,-118.25971,All'Acqua,4.0,575
+1308,vietnamese,False,34.06323,-118.29702,Pho 24,4.0,641
+1309,vegetarian,False,34.06217,-118.23561,Homegirl Cafe,4.5,639
+1310,italian,False,34.0978651,-118.3256499,Fabiolus Cucina,4.0,839
+1311,newamerican,False,34.0579684054181,-118.414382588885,The Stand,4.0,235
+1312,breakfast_brunch,False,34.01242,-118.30925,Jack's Family Kitchen,4.5,212
+1313,creperies,False,34.0571800333348,-118.252924291915,Crepes De Paris,4.5,136
+1314,tex-mex,False,34.157793067814005,-118.397385672772,AJ's Tex-Mex & Barbecue,4.5,194
+1315,newamerican,False,34.0255407029642,-118.412643982327,The Doughroom,4.0,604
+1316,italian,False,34.0834770202637,-118.366485595703,Mauro's Cafe,4.0,169
+1317,mexican,False,34.1014551,-118.3314412,Calle Tacos,4.0,768
+1318,filipino,False,34.0620072916925,-118.2975594,Neri's,4.0,227
+1319,newamerican,False,34.11993,-118.32132,Beachwood Cafe,3.5,406
+1320,mexican,False,34.0514859,-118.21792340000002,La Michoacana Restaurant,4.0,23
+1321,breakfast_brunch,False,34.021791,-118.396617,Cafe Vida - Culver City,4.0,1274
+1322,newamerican,False,34.10394,-118.3248,Jane Q,4.0,80
+1323,coffee,False,34.083871,-118.3501442,Coffee Attic,5.0,17
+1324,salvadoran,False,34.1240745371247,-118.22057582437999,Drive Thru Pupusas,5.0,116
+1325,ethiopian,False,34.0570974,-118.3641842,Buna Ethiopian Restaurant & Market,4.5,335
+1326,korean,False,34.066626219067196,-118.30896785648301,Feng Mao Lamb Kebab,4.0,445
+1327,southern,False,34.061516999999995,-118.23971599999999,Howlin' Ray's,4.5,5624
+1328,french,False,34.06415,-118.34366999999999,République,4.0,5132
+1329,dimsum,False,34.07577,-118.36981999999999,Bao Dim Sum House,4.0,2775
+1330,newamerican,False,34.048111,-118.25834499999999,JOEY DTLA,4.5,339
+1331,chickenshop,False,34.0880681,-118.30896200000001,Dave's Hot Chicken,4.5,2513
+1332,japanese,False,34.050022999999996,-118.239935,Marugame Monzo,4.5,3535
+1333,filipino,False,34.08222,-118.30948000000001,Rice Guys,5.0,59
+1334,cafes,False,34.060944799999994,-118.34467590000001,Met Her At A Bar,4.5,959
+1335,italian,False,34.03402,-118.22918999999999,Bestia,4.5,5849
+1336,sushi,False,34.06372,-118.36446000000001,KazuNori: The Original Hand Roll Bar,5.0,8
+1337,delis,False,34.056090000000005,-118.27658000000001,Langer's,4.5,3614
+1338,delis,False,34.0476,-118.31723400000001,Pasta Sisters,4.5,1334
+1339,breakfast_brunch,False,34.050528899999996,-118.2486189,Eggslut,4.0,5585
+1340,gastropubs,False,34.06449,-118.30891000000001,Tipsi,4.5,71
+1341,burgers,False,34.099540000000005,-118.32911000000001,Stout Burgers & Beers,4.0,2030
+1342,southern,False,34.0796,-118.36113999999999,Sweet Chick,4.0,964
+1343,mexican,False,34.052409999999995,-118.30071000000001,Guelaguetza Restaurante,4.0,2117
+1344,french,False,34.07208,-118.36748999999999,The Little Door,4.0,2033
+1345,brazilian,False,34.04665,-118.25616000000001,H&H Brazilian Steakhouse,4.5,197
+1346,tabletopgames,False,34.01619,-118.28168000000001,The Dragon and Meeple,5.0,53
+1347,newamerican,False,34.054358,-118.25133899999999,Otium,4.0,1877
+1348,korean,False,34.0637349,-118.29437279999999,Seongbukdong,4.0,1081
+1349,korean,False,34.0546201,-118.29149509999999,Ong Ga Nae Korean BBQ,4.5,470
+1350,sushi,False,34.08319167,-118.27324499999999,いざかや おせん- IZAKAYA OSEN,4.5,632
+1351,sushi,False,34.06323,-118.29701999999999,Seaweed Hand Roll Bar,4.5,154
+1352,newamerican,False,34.06215,-118.30098000000001,Openaire,4.0,372
+1353,italian,False,34.1037812,-118.28724790000001,La Pergoletta,4.5,776
+1354,filipino,False,34.095634000000004,-118.29272900000001,LA Rose Cafe,4.5,940
+1355,mideastern,False,34.041509999999995,-118.23261000000001,Bavel,4.5,1064
+1356,tapasmallplates,False,34.0941,-118.32733999999999,Barkada,4.5,280
+1357,korean,False,34.04847,-118.30866999999999,Road To Seoul,4.0,3650
+1358,newamerican,False,34.06372,-118.36446000000001,HiHo Cheeseburger,5.0,2
+1359,french,False,34.1053549,-118.32469850000001,Papilles Bistro,4.5,438
+1360,newamerican,False,34.076190000000004,-118.25656000000001,Adamae,4.5,53
+1361,taiwanese,False,34.0614,-118.23951000000001,Lao Tao,4.0,405
+1362,ramen,False,34.083710700000005,-118.34467590000001,Tatsu Ramen,4.0,3339
+1363,bars,False,34.101795,-118.33239280000001,Te'Kila,4.0,929
+1364,mexican,False,34.048120000000004,-118.21146999999999,Guisados,4.5,2403
+1365,newamerican,False,33.959441999999996,-118.393598,Truxton's American Bistro,4.0,1366
+1366,chicken_wings,False,34.067454299999994,-118.30961909999999,Gol Tong Chicken,4.5,551
+1367,lounges,False,34.092321999999996,-118.338386203705,Next Door Lounge,4.0,1048
+1368,asianfusion,False,34.06344,-118.29831000000001,Street Food Of Seoul,4.0,222
+1369,sandwiches,False,34.0974499,-118.34994099999999,The Carving Board,4.5,660
+1370,japanese,False,34.02507,-118.41226999999999,n/naka,4.5,692
+1371,salvadoran,False,34.038759999999996,-118.28075,La Pupusa Urban Eatery,4.5,210
+1372,seafood,False,34.04768,-118.32253999999999,La Cevicheria,4.5,829
+1373,breakfast_brunch,False,34.100159999999995,-118.33013999999999,The Highlight Room Grill,4.0,190
+1374,newamerican,False,34.083690000000004,-118.33988000000001,Auburn,4.5,72
+1375,vegan,False,34.083420000000004,-118.37011000000001,Crossroads,4.0,1942
+1376,mediterranean,False,34.0477539,-118.24735729999999,Bäco Mercat,4.0,2535
+1377,breakfast_brunch,False,34.072893,-118.37178999999999,Joan's on Third,4.0,2249
+1378,japanese,False,34.0443222,-118.23823390000001,Shojin Downtown,4.0,1734
+1379,indonesian,False,34.050016299999996,-118.24335659999998,Kasih,4.5,391
+1380,tacos,False,34.0416441,-118.25226570000001,Sonoratown,4.5,720
+1381,seafoodmarkets,False,34.04083,-118.24018000000001,Fisherman's Outlet,4.0,1099
+1382,mediterranean,False,34.089290000000005,-118.27693000000001,Mh Zh,4.5,382
+1383,vietnamese,False,34.067257299999994,-118.23563329999999,Pho 87,4.0,1379
+1384,coffee,False,34.084365999999996,-118.28663600000002,Sqirl,4.0,1947
+1385,cafes,False,34.0723701,-118.34436550000001,The Sycamore Kitchen,4.0,868
+1386,korean,False,34.063757,-118.29583799999999,Ham Ji Park,4.0,1466
+1387,ramen,False,34.0837585,-118.35254599999999,E.A.K. Ramen,4.0,338
+1388,newamerican,False,34.046079999999996,-118.23489,Manuela,4.0,855
+1389,coffee,False,34.041973999999996,-118.235426,Urth Caffé- Downtown LA,4.0,5108
+1390,italian,False,34.103041999999995,-118.29185700000001,Il Capriccio on Vermont,4.0,945
+1391,newamerican,False,34.0565145084118,-118.41521503953001,Hinoki & The Bird,3.5,1365
+1392,newamerican,False,34.004448100000005,-118.43110949999999,Little Fatty,4.0,531
+1393,mexican,False,34.035216999999996,-118.25591000000001,Mex Perú Gipsy,5.0,758
+1394,chickenshop,False,34.059959899999996,-118.41982,The Crack Shack,4.0,344
+1395,mexican,False,34.10743,-118.25441000000001,Salazar,3.5,903
+1396,japanese,False,34.048279,-118.25856100000001,Marugame Udon,4.0,80
+1397,mediterranean,False,34.1002441,-118.29061019999999,Kismet,4.0,429
+1398,italian,False,34.08319,-118.33881000000001,Osteria Mozza,4.0,2711
+1399,brazilian,False,34.061358,-118.31045300000001,M Grill,4.5,1980
+1400,italian,False,34.045168,-118.25652600000001,Colori Kitchen,4.0,1600
+1401,thai,False,33.95878,-118.39451000000001,Ayara Thai Cuisine,4.0,1977
+1402,foodtrucks,False,34.114824,-118.26994499999999,Ricky's Fish Tacos,4.5,1158
+1403,mexican,False,34.04714,-118.21798999999999,Birrieria Don Boni,4.5,415
+1404,seafood,False,34.101279999999996,-118.31841000000001,Palms Thai Restaurant,4.0,2654
+1405,cajun,False,33.9743356,-118.32417179999999,Red's Flavor Table,4.0,590
+1406,japanese,False,34.047201799999996,-118.2388601,KaGaYa,4.5,607
+1407,breakfast_brunch,False,34.102959999999996,-118.28719,Home Restaurant - Los Feliz,4.0,2727
+1408,seafood,False,34.0269938,-118.40879299999999,Lobster & Beer,4.0,627
+1409,mediterranean,False,34.039926799999996,-118.4233433,Aroma Cafe,4.0,306
+1410,comfortfood,False,34.0377826,-118.24287209999999,Comfort LA,4.0,841
+1411,ramen,False,34.050528899999996,-118.2486189,Ramen Hood,4.5,910
+1412,thai,False,34.06876,-118.30948000000001,Hae Ha Heng Thai Bistro,4.5,1110
+1413,korean,False,34.07642,-118.30556999999999,Sulga Jinju Gom Tang House of Beef Soup,5.0,191
+1414,cocktailbars,False,34.047579999999996,-118.25036000000001,The Little Easy,4.0,1016
+1415,bbq,False,34.067409999999995,-118.30873000000001,Song Hak Korean BBQ 松鹤韩国烤肉烤肠,4.5,173
+1416,newamerican,False,34.16464000000001,-118.37261000000001,ST. ANNE'S,4.5,208
+1417,newamerican,False,34.0756,-118.38388490000001,The Ivy,3.5,1872
+1418,gastropubs,False,34.064332,-118.30854599999999,Beer Belly,4.0,2350
+1419,japanese,False,34.049704999999996,-118.239652,Sushi Enya,4.5,1337
+1420,french,False,34.0481,-118.24846000000001,Le Petit Paris,4.0,1113
+1421,cocktailbars,False,34.047509999999996,-118.25072,Mezcalero,4.0,435
+1422,korean,False,34.098144899999994,-118.35043490000001,BBQ + RICE Korean BBQ Bowls,4.5,229
+1423,italian,False,34.06372,-118.36446000000001,Uovo- Mid-Wilshire,5.0,8
+1424,hotdog,False,34.08403,-118.34438999999999,Pink's Hot Dogs,3.5,7027
+1425,korean,False,34.057539500000004,-118.30725919999999,Honey Night,4.5,90
+1426,gastropubs,False,34.042762100000004,-118.25365149999999,Peking Tavern,4.0,730
+1427,chinese,False,34.0741838,-118.27939930000001,Woon,4.5,150
+1428,mexican,False,34.09544,-118.30256000000001,El Zarape,4.5,549
+1429,italian,False,34.07642,-118.34908999999999,Angelini Osteria,4.5,1725
+1430,foodtrucks,False,34.046438,-118.34571799999999,Leo's Tacos Truck,4.5,1745
+1431,korean,False,34.05279,-118.30606999999999,Yuchun,4.0,1041
+1432,bars,False,34.10605,-118.25693999999999,Ivanhoe Restaurant & Bar,4.5,332
+1433,japanese,False,34.036251899999996,-118.24066880000001,Hayato,5.0,53
+1434,burgers,False,34.020396999999996,-118.42231299999999,Tripp Burgers,4.5,14
+1435,cafes,False,34.07718,-118.26406000000001,Larchmont Bungalow Cafe,4.5,246
+1436,japanese,False,34.0982549,-118.30289540000001,ShaBuShi,4.5,422
+1437,mediterranean,False,34.0482095,-118.23987890000001,Spitz - Little Tokyo,4.0,1594
+1438,mediterranean,False,34.1157446801662,-118.25143866241001,Momed Atwater Village,4.0,520
+1439,vegetarian,False,34.077812,-118.26461599999999,Elf Café,4.5,739
+1440,tradamerican,False,34.093984000000006,-118.32763899999999,Doomie's Home Cookin',4.0,1677
+1441,newamerican,False,34.1014294,-118.32633259999999,Feast,4.0,472
+1442,chinese,False,34.06004,-118.29061999999999,Wok Bar,4.5,9
+1443,vegetarian,False,34.0762049,-118.37026750000001,Backyard Bowls,4.5,456
+1444,italian,False,34.038866999999996,-118.23602,The Factory Kitchen,4.0,1296
+1445,newamerican,False,34.0762249,-118.36419779999999,Market Provisions,4.0,374
+1446,korean,False,34.05786,-118.30273999999999,Oo-Kook Korean BBQ,4.0,1796
+1447,seafood,False,34.07649,-118.30151000000001,Alaska Seafood,4.5,127
+1448,tradamerican,False,34.04489,-118.26417350000001,Shaquille’s,3.5,553
+1449,mediterranean,False,34.0249037,-118.28459609999999,CAVA,4.0,177
+1450,filipino,False,34.09516,-118.28381999999999,Ma'am Sir,3.5,377
+1451,seafood,False,34.063452000000005,-118.29904599999999,EMC Seafood & Raw Bar,4.0,3155
+1452,grocery,False,34.052237,-118.30851499999999,Koreatown Galleria,4.0,276
+1453,mongolian,False,34.06177,-118.28725800000001,Golden Mongolian Restaurant,4.5,183
+1454,burgers,False,34.095160299999996,-118.28314009999998,My Vegan Gold,4.5,739
+1455,italian,False,34.0907526,-118.38841629999999,Rainbow Bar & Grill,3.5,860
+1456,korean,False,34.052929999999996,-118.30351999999999,Myung In Dumplings,4.0,745
+1457,cocktailbars,False,34.0637,-118.30821999999999,Here's Looking At You,4.0,461
+1458,italian,False,34.0711906,-118.35994170000001,Andre's Italian Restaurant,4.0,1164
+1459,cocktailbars,False,34.04676,-118.25098999999999,Clayton's Public House,4.0,259
+1460,bbq,False,34.031909999999996,-118.33525490000001,Phillips Barbecue,4.0,493
+1461,chinese,False,34.05239,-118.30341999999999,Young King,4.0,540
+1462,korean,False,34.0637349,-118.29629080000001,Mari Kimbap Shop,4.5,189
+1463,bars,False,34.07639,-118.25578999999999,Ostrich Farm,4.0,441
+1464,lounges,False,33.99689,-118.42653999999999,Alibi Room,4.0,1466
+1465,seafood,False,34.06355,-118.28741000000001,Oh My Crab,4.0,16
+1466,sandwiches,False,34.04762,-118.32758000000001,The Grain Cafe,4.5,830
+1467,ethiopian,False,34.03975,-118.30376000000001,Lucy Ethiopian Restaurant,5.0,2
+1468,southern,False,34.06962,-118.27756000000001,Crawford's,4.5,298
+1469,bbq,False,34.04676,-118.25098999999999,RiceBox,4.5,163
+1470,burgers,False,34.04074,-118.42786000000001,The Apple Pan,3.5,2804
+1471,indpak,False,34.083659999999995,-118.34326999999999,Anarkali Indian Restaurant,4.0,2530
+1472,korean,False,34.0574299,-118.30658000000001,Haemaru,4.0,103
+1473,french,False,34.04155,-118.25703999999999,Zinqué,4.5,54
+1474,coffee,False,34.060212,-118.29132800000001,Alchemist Coffee Project,4.5,1059
+1475,breakfast_brunch,False,34.04676,-118.25098999999999,Blu Jam Cafe,4.0,923
+1476,izakaya,False,34.07267,-118.25178000000001,Tsubaki,4.0,215
+1477,sushi,False,34.0484675,-118.24024909999999,Komasa Sushi,4.5,1283
+1478,caribbean,False,34.016999999999996,-118.30854,Tracey's Belizean Restaurant,4.5,118
+1479,cafes,False,34.04385,-118.23288000000001,The Black Fig,4.5,148
+1480,cajun,False,34.0254551,-118.32796599999999,Harold & Belle's,3.5,859
+1481,newamerican,False,34.04716,-118.24708000000001,Blacksmiths,4.5,587
+1482,cafes,False,34.0768811,-118.25800690000001,Honey Hi,4.5,232
+1483,filipino,False,34.14177,-118.22111000000001,Eagle Rock Kitchen,4.5,170
+1484,caribbean,False,34.00574,-118.33183000000001,Ackee Bamboo Jamaican Cuisine,4.0,343
+1485,desserts,False,33.9886408,-118.35333519999999,Crustees Eatery,5.0,63
+1486,newamerican,False,34.095259999999996,-118.29498000000001,Square One Dining,4.0,1633
+1487,italian,False,34.089188899999996,-118.3329895,Rao's - Los Angeles,4.0,432
+1488,mexican,False,34.04675,-118.28246999999999,King Taco,3.5,1004
+1489,burgers,False,34.0242256,-118.28469960000001,Wahlburgers,3.5,203
+1490,ramen,False,34.101362,-118.34549369999999,Shin Ramen,4.0,763
+1491,breakfast_brunch,False,34.0472167,-118.23888500000001,Aloha Café,4.0,656
+1492,korean,False,34.058,-118.29373999999999,Majangdong,5.0,34
+1493,soulfood,False,33.969506,-118.30908899999999,M'Dear's Bakery & Bistro,3.5,265
+1494,coffee,False,34.071382,-118.34383700000001,Bluestone Lane,4.0,116
+1495,breakfast_brunch,False,34.092421,-118.33899199999999,Salt's Cure,3.5,343
+1496,mideastern,False,34.044814,-118.25666000000001,The Exchange Restaurant,4.0,344
+1497,salad,False,33.999359999999996,-118.41891000000001,Green Apple Cafe,5.0,4
+1498,indonesian,False,34.0269938,-118.40879299999999,Mr. Sate,4.5,204
+1499,newamerican,False,34.076269,-118.38358799999999,The Henry,4.0,648
+1500,pizza,False,34.073159999999994,-118.38346999999999,Pizzeria Il Fico,4.5,457
+1501,newamerican,False,34.04697,-118.25556999999999,The NoMad Restaurant,4.0,323
+1502,argentine,False,34.0574375,-118.29374309999999,ACA Grill,4.5,430
+1503,mexican,False,34.03967,-118.25471999999999,Cilantro Lime,4.5,362
+1504,breakfast_brunch,False,34.02876,-118.27516999999999,Jacks N Joe,4.0,2010
+1505,chicken_wings,False,34.0905951,-118.32558610000001,Jesse Boy,4.5,325
+1506,korean,False,34.062401,-118.29758799999999,Wako Donkasu,4.0,639
+1507,wine_bars,False,34.083525,-118.36320900000001,Froma on Melrose,4.5,272
+1508,brazilian,False,34.1072244,-118.28727509999999,Tropicalia Brazilian Grill,4.0,561
+1509,korean,False,34.063852000000004,-118.29460900000001,Dan Sung Sa,4.0,814
+1510,bbq,False,34.14114,-118.37593700000001,Ohana BBQ,4.5,348
+1511,mexican,False,34.105959999999996,-118.27281,Mi Corazon,4.0,195
+1512,wine_bars,False,34.083259999999996,-118.3483,Severance,4.5,69
+1513,mideastern,False,34.020886700000005,-118.40270790000001,Jaffa Palms,4.5,73
+1514,cafes,False,34.0838349,-118.36928449999999,Carrera Cafe,4.0,324
+1515,sandwiches,False,34.083594899999994,-118.34200609999999,Banh Oui,5.0,4
+1516,newamerican,False,34.10722,-118.26418000000001,Small Town,4.0,54
+1517,gastropubs,False,34.08324,-118.34768999999999,The Parlor,3.5,648
+1518,streetvendors,False,34.0452489,-118.23534769999999,Lou’s Hot Chicken,5.0,79
+1519,asianfusion,False,34.050109899999995,-118.25793999999999,Kues Restaurant,4.0,147
+1520,chicken_wings,False,34.0835735963673,-118.34313471133001,Hot Wings Cafe,4.0,855
+1521,diners,False,34.046219,-118.24899199999999,Nickel Diner,4.0,2392
+1522,breakfast_brunch,False,34.08307,-118.28426999999999,Jewel,4.5,193
+1523,japanese,False,34.099696,-118.32344769999999,Sorra,4.0,25
+1524,newamerican,False,34.059959899999996,-118.41982,Saint Marc,3.5,172
+1525,mexican,False,34.068346999999996,-118.2625568,Tamales Alberto,4.5,309
+1526,sushi,False,34.07776,-118.37693999999999,Sushi Fumi,4.5,300
+1527,thai,False,34.095450468319896,-118.28494475373999,Wat Dong Moon Lek Noodle,4.0,975
+1528,korean,False,34.0622771,-118.29751680000001,BongChu,4.0,223
+1529,foodstands,False,34.051601700000006,-118.26664029999999,Porchetta Republic,5.0,34
+1530,italian,False,34.08319,-118.33908000000001,Chi Spacca,4.0,552
+1531,mexican,False,34.056529,-118.34488200000001,Trejos Tacos - La Brea,3.5,1596
+1532,mexican,False,34.033920157678104,-118.29148504988999,La Barca Restaurant,4.0,827
+1533,tradamerican,False,34.073855,-118.23995900000001,Dodger Stadium - Stadium Club,4.0,175
+1534,mexican,False,34.00225,-118.26483999999999,Mariscos La Corita,4.5,100
+1535,vegan,False,34.138579198962105,-118.36653899999999,SunCafe Organic,4.5,2295
+1536,mexican,False,34.02362,-118.26508000000001,Birrieria Los Gonzalez,4.0,161
+1537,burgers,False,34.075395,-118.32381799999999,Burger Lounge,4.0,333
+1538,korean,False,34.025032,-118.28546499999999,KOBUNGA,4.5,150
+1539,italian,False,34.02647,-118.24328999999999,IL Bambino Restaurant,5.0,148
+1540,newamerican,False,34.092096999999995,-118.27974499999999,The Black Cat,4.0,458
+1541,pizza,False,34.08292,-118.27288999999999,Wood,4.0,636
+1542,sushi,False,34.10226,-118.32481999999999,Totoyama Sushi & Ramen,4.0,198
+1543,tradamerican,False,34.06081,-118.26733999999999,Gus's Drive In,3.5,401
+1544,chickenshop,False,34.0462278,-118.25093659999999,The Red Chickz,4.0,281
+1545,coffee,False,34.147846,-118.43194799999999,The Joint Eatery,4.5,180
+1546,japanese,False,34.075134999999996,-118.308649,Brothers Shabuhouse,4.0,68
+1547,diners,False,34.089290000000005,-118.27693000000001,Millie's Cafe,4.0,982
+1548,sushi,False,34.0487781,-118.24066129999999,Kura Revolving Sushi Bar,3.5,1316
+1549,seafood,False,34.0487526,-118.25912679999999,Seasalt Fish Grill,4.0,778
+1550,korean,False,34.06876,-118.30948000000001,Tasty Grill,4.5,220
+1551,chinese,False,34.09746,-118.36513000000001,Wokcano Asian Restaurant & Bar,4.0,453
+1552,poke,False,34.063992999999996,-118.28383799999999,Pokémolé,4.5,306
+1553,chicken_wings,False,34.0833,-118.34998999999999,Love Baked Wings,4.0,371
+1554,breakfast_brunch,False,33.9599,-118.27421000000001,Roscoe's House of Chicken & Waffles,4.0,524
+1555,chinese,False,34.07817,-118.25676000000001,Combo A,4.5,227
+1556,chinese,False,34.058279999999996,-118.36251999999999,Fortune House Chinese Cuisine,4.0,236
+1557,italian,False,34.076570000000004,-118.31101000000001,Antico Restaurant,4.0,49
+1558,breakfast_brunch,False,34.08222,-118.30948000000001,LA Breakfast Club,5.0,1
+1559,mexican,False,34.07869,-118.21471000000001,El Camaron Pelado,4.0,233
+1560,mexican,False,34.0634262,-118.24567169999999,Mexicali Taco & Co,4.0,870
+1561,pizza,False,34.07405,-118.21073999999999,The Heights Deli & Bottle Shop,4.5,459
+1562,asianfusion,False,34.060035299999996,-118.2388394,Ord & Broadway,4.5,199
+1563,bbq,False,34.0421867,-118.30889509999999,Chin's Hawaiian Teriyaki Bbq Chicken,4.0,62
+1564,brazilian,False,34.015667799999996,-118.4127939,Cantinho Brasileiro,4.5,25
+1565,korean,False,34.047509000000005,-118.32476299999999,Han Mi Jung,4.5,69
+1566,korean,False,34.0478722,-118.32573729999999,Ham Ji Park,4.0,154
+1567,streetvendors,False,34.07145,-118.27266999999999,Dollar Hits,4.0,252
+1568,latin,False,34.03904,-118.30941000000001,Sabor Nicaragüense Restaurant,4.5,62
+1569,russian,False,34.0999077,-118.34486709999999,Robert's Russian Cuisine,4.5,220
+1570,italian,False,34.1074686,-118.28727509999999,Farfalla Trattoria,4.0,628
+1571,cocktailbars,False,34.08052,-118.26991000000001,Freedman's,4.0,184
+1572,mexican,False,34.021409999999996,-118.21404,Mariscos 4 Vientos,4.0,605
+1573,asianfusion,False,34.076029999999996,-118.32399,Good Goose Cafe,5.0,81
+1574,mexican,False,34.099443,-118.32900120000001,Trejo's Cantina - Hollywood,3.5,525
+1575,pizza,False,34.07727,-118.26388999999999,Cosa Buona,4.0,280
+1576,breakfast_brunch,False,34.083816999999996,-118.273853,Local,4.0,809
+1577,chicken_wings,False,34.0628631,-118.30626720000001,Kitchen Sooda,4.0,172
+1578,ramen,False,34.045277,-118.23849399999999,Hana Ichimonme,4.0,442
+1579,mexican,False,34.0571939,-118.23840390000001,La Golondrina Mexican Cafe,3.5,928
+1580,thai,False,34.098459999999996,-118.30487,Siam Sunset,4.0,261
+1581,german,False,34.004129999999996,-118.43101999999999,Rasselbock L.A. Kitchen & Beer Garden,4.0,104
+1582,bars,False,34.044846,-118.24956399999999,Cole's French Dip,3.5,2184
+1583,wine_bars,False,34.082353999999995,-118.27228000000001,Same Same,4.0,223
+1584,noodles,False,34.025517799999996,-118.2775239,Northern Cafe,3.5,205
+1585,italian,False,34.1184299,-118.25971000000001,All'Acqua,4.0,575
+1586,mediterranean,False,34.098459999999996,-118.30018999999999,Zankou Chicken - Hollywood,3.5,1011
+1587,vietnamese,False,34.06323,-118.29701999999999,Pho 24,4.0,641
+1588,vegetarian,False,34.06217,-118.23561000000001,Homegirl Cafe,4.5,639
+1589,italian,False,34.08323,-118.34723999999999,Frankie's,4.0,412
+1590,mediterranean,False,34.02948,-118.38901000000001,Almaza,4.0,537
+1591,korean,False,34.03458,-118.25761999999999,Halmoni Grandmas Dukbokki,4.5,57
+1592,italian,False,34.0484549,-118.24796459999999,Orsa & Winston,4.0,441
+1593,mexican,False,34.075886499999996,-118.350284,Petty Cash Taqueria & Bar,3.5,861
+1594,breakfast_brunch,False,34.021791,-118.39661699999999,Cafe Vida - Culver City,4.0,1274
+1595,ethiopian,False,34.057097399999996,-118.3641842,Buna Ethiopian Restaurant & Market,4.5,335
+1596,cocktailbars,False,34.040358000000005,-118.26341969999999,barcito,4.0,312
+1597,korean,False,34.064009000000006,-118.3007013,Yup Dduk La,4.5,1951
+1598,italian,False,34.046459000000006,-118.238403,PASTA e PASTA by Allegro,4.5,700
+1599,seafood,False,34.034715000000006,-118.241374,Rappahannock Oyster Bar - DTLA,4.5,192
+1600,tex-mex,False,34.099790000000006,-118.29021000000002,HomeState,4.5,959
+1601,newamerican,False,34.164640000000006,-118.37261000000001,ST. ANNE'S,4.5,208
+1602,wine_bars,False,34.044503000000006,-118.24037,High Tide,4.5,96
+1603,butcher,False,34.097640000000006,-118.3334,Gwen Butcher Shop,4.0,528
+1604,peruvian,False,34.150090000000006,-118.3781,Los Balcones - Studio City,4.0,88
+1605,korean,False,34.056182861328104,-118.30940246581999,Ma Dang Gook Soo,4.0,617
+1606,foodtrucks,False,34.0986671447754,-118.30989074706999,Leo's Tacos Truck,4.0,273
+1607,cajun,False,34.097834616136495,-118.3233207,The Kickin’ Crab,4.0,49
